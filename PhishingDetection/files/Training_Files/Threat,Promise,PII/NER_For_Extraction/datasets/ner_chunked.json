@@ -1,0 +1,2120 @@
+[
+    {
+        "id": "email1",
+        "external_id": "email1.sentence_1-3",
+        "sentence_text": "From: noreply@ibm.com Date: November 11, 2024 Subject: Update SSN To: John Smith <jsmith@gmail.com>  Subject: Update Your Social Security Information Dear Dr. Smith, Our records indicate that your Social Security information needs to be updated to comply with recent federal regulations. Please provide your Social Security Number to ensure your account remains active. To update your information, please visit the following secure link:  Update Account Information Thank you for your prompt attention to this matter.",
+        "annotations": [
+            {
+                "label": "pii_request",
+                "text": "Please provide your Social Security Number",
+                "start_offset": 288,
+                "end_offset": 330
+            },
+            {
+                "label": "pii_request",
+                "text": "Subject : Update SSN",
+                "start_offset": 46,
+                "end_offset": 65
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 517
+    },
+    {
+        "id": "email1",
+        "external_id": "email1.sentence_4-4",
+        "sentence_text": "Sincerely,  IBM Support Team  ",
+        "annotations": [],
+        "chunk_start_idx": 518,
+        "chunk_end_idx": 548
+    },
+    {
+        "id": "email2",
+        "external_id": "email2.sentence_1-3",
+        "sentence_text": "From: nationwide-account-services@gmail.com Date: March 2, 2021 To: georgepadrogapocas@gmail.com Subject: Action Required: Confirm Your SSN  Dear labeld Customer, We have detected unusual activity in your account and require you to confirm your Social Security Number to secure your information. Click on the link below to verify your details. https://www.Nationwde/account-SSN-update Thank you for your prompt action.",
+        "annotations": [
+            {
+                "label": "pii_request",
+                "text": "We have detected unusual activity in your account and require you to confirm your Social",
+                "start_offset": 163,
+                "end_offset": 251
+            },
+            {
+                "label": "pii_request",
+                "text": "Security Number to secure your information",
+                "start_offset": 252,
+                "end_offset": 294
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 418
+    },
+    {
+        "id": "email2",
+        "external_id": "email2.sentence_4-4",
+        "sentence_text": "Sincerely,  Nationwide Security Team  ",
+        "annotations": [],
+        "chunk_start_idx": 419,
+        "chunk_end_idx": 457
+    },
+    {
+        "id": "email3",
+        "external_id": "email3.sentence_1-3",
+        "sentence_text": "Subject: Urgent: Verify Your Social Security Number Dear Director Hughes Due to recent security updates, we need to verify your Social Security Number to maintain your account's integrity. Please click the link below and enter your SSN to continue using our services without interruption. Link Thank you for your cooperation.",
+        "annotations": [
+            {
+                "label": "pii_request",
+                "text": "Due to recent security updates, we need to verify your Social Security Number to maintain your account's integrity. Please click the link below and enter your SSN",
+                "start_offset": 73,
+                "end_offset": 235
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 325
+    },
+    {
+        "id": "email3",
+        "external_id": "email3.sentence_4-4",
+        "sentence_text": "Best regards,  DOJ Verification Team  ",
+        "annotations": [],
+        "chunk_start_idx": 326,
+        "chunk_end_idx": 364
+    },
+    {
+        "id": "email4",
+        "external_id": "email4.sentence_1-3",
+        "sentence_text": "Subject: Action Required: Banking Info Confirmation Dear Matthew, For security purposes, we need you to confirm your banking information. Failure to do so may result in limited access to your account. Please use the secure link below to verify your details.",
+        "annotations": [
+            {
+                "label": "pii_request",
+                "text": "Action Required: Banking Info Confirmation",
+                "start_offset": 9,
+                "end_offset": 51
+            },
+            {
+                "label": "pii_request",
+                "text": "confirm your banking information",
+                "start_offset": 104,
+                "end_offset": 136
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 257
+    },
+    {
+        "id": "email4",
+        "external_id": "email4.sentence_4-5",
+        "sentence_text": "Link Thank you for your cooperation. Sincerely,  SECU Security Team  ",
+        "annotations": [],
+        "chunk_start_idx": 258,
+        "chunk_end_idx": 327
+    },
+    {
+        "id": "email5",
+        "external_id": "email5.sentence_1-3",
+        "sentence_text": "From: Payment-Declined <00.cb@kolmanxi.jp.net> Date: Wed, May 8, 2024 at 11:08\u202fPM Subject:  \ud835\udc18\ud835\udc28\ud835\udc2e\ud835\udc2b \ud835\udc00\ud835\udc1c\ud835\udc1c\ud835\udc28\ud835\udc2e\ud835\udc27\ud835\udc2d \ud835\udc12\ud835\udc22\ud835\udc2b\ud835\udc22\ud835\udc2e\ud835\udc2c \ud835\udc17\ud835\udc0c \ud835\udc16\ud835\udc22\ud835\udc25\ud835\udc25 \ud835\udc01\ud835\udc1e \ud835\udc11\ud835\udc1e\ud835\udc26\ud835\udc28\ud835\udc2f\ud835\udc1e\ud835\udc1d \ud835\udc13\ud835\udc28\ud835\udc1d\ud835\udc1a\ud835\udc32 Thu, 09 May 2024 05:06:57 +0200 -- To: <ncjacksonpruett@gmail.com>     ncjacksonpruett    Payment attempt failure while renewing your subscription for siriusXM  your siriusXM subscription has Exired Today ! Dear Customer  We Failed To Renew Your SXM Membership . INFORMATION about your account : Customer ID: #ncjacksonpruett Email: ncjacksonpruett@gmail.com Statu: Pending confirmation EXPIRED DATE Thu, 09 May 2024 05:06:57 +0200                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          We tried renew your subscription at the end of each billing cycle , but your monthly payment has failed . We therefore had to cancel your subscription .",
+        "annotations": [],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 1290
+    },
+    {
+        "id": "email5",
+        "external_id": "email5.sentence_4-6",
+        "sentence_text": "Obviously , we would love to see you again . If you wish to renew your subscription click on the link below . UPDATE MY PAYMENT DETAILS Note: iN CASE OF IGNORANCE , Your Services will Be Completely Suspended within 24 Hours According To the Terms Defined in our Contracts  ",
+        "annotations": [
+            {
+                "label": "pii_request",
+                "text": "UPDATE MY PAYMENT DETAILS",
+                "start_offset": 147,
+                "end_offset": 172
+            }
+        ],
+        "chunk_start_idx": 1291,
+        "chunk_end_idx": 1564
+    },
+    {
+        "id": "email6",
+        "external_id": "email6.sentence_1-3",
+        "sentence_text": "subject: URGENT - Complete I-9 Paperwork Immediately for Official/Scorekeeper Position Sports Programs New Hire,  Our records indicate that you have not completed Section 1 online for your I-9 paperwork and have not completed Section 2 at the I-9 Center on campus. This step is required for you to continue working at Wellness and Recreation and attend trainings on Sunday for Official and/or Scorekeeper.  Please email me back once you completed Section 1!   As long as you have completed Section 1, you will be able to attend Sunday's training.",
+        "annotations": [],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 546
+    },
+    {
+        "id": "email6",
+        "external_id": "email6.sentence_4-6",
+        "sentence_text": "You then have 3 business days to complete Section 2 in person.  The following instructions were sent in your initial Onboarding email from Stephen Tucci.  Completing I-9 Sections 1 & 2 After selecting an orientation date, you will receive (please give it a few days if it does not come right away) an email (from perfectcompliance.com or DoNotReply, with the heading of Your NC State University Employee I-9 Account Has Been Created) providing you with information on completing Section 1 of your I-9, Employment Eligibility Verification Form, which we ask that you do remotely, at home.",
+        "annotations": [],
+        "chunk_start_idx": 547,
+        "chunk_end_idx": 1134
+    },
+    {
+        "id": "email6",
+        "external_id": "email6.sentence_7-9",
+        "sentence_text": "It is your responsibility to complete Section 1 on time. If you do not complete Section 1, you will not be able to complete Section 2 of your I-9, Employment Eligibility Verification Form.    Note: Your Social Security number (SSN) will be required to complete Section 1.",
+        "annotations": [
+            {
+                "label": "pii_request",
+                "text": "Note: Your Social Security number (SSN) will be required to complete Section 1.",
+                "start_offset": 192,
+                "end_offset": 270
+            }
+        ],
+        "chunk_start_idx": 1135,
+        "chunk_end_idx": 1406
+    },
+    {
+        "id": "email6",
+        "external_id": "email6.sentence_10-12",
+        "sentence_text": "If you do not have one, you need to apply for one. If you DO need to apply for a Social Security number, you must check the Awaiting Issuance of SSN box in the U.S. Social Security No. field in Section 1.  After you have completed Section 1, Section 2 must be completed within three business days after Wellness and Recreation New Student Employee Orientation.",
+        "annotations": [],
+        "chunk_start_idx": 1407,
+        "chunk_end_idx": 1767
+    },
+    {
+        "id": "email6",
+        "external_id": "email6.sentence_13-15",
+        "sentence_text": "An authorized representative of NC State University must complete Section 2 with your original I-9 Acceptable Documents in-person, so you will need to make arrangements to visit the I-9 Center.    Review the government2019s list of I-9 Acceptable Documents.   Bring original documents (no copies) from this list; be sure to bring in one selection from List A, OR a combination of one selection from List B and one selection from List C.",
+        "annotations": [],
+        "chunk_start_idx": 1768,
+        "chunk_end_idx": 2204
+    },
+    {
+        "id": "email6",
+        "external_id": "email6.sentence_16-18",
+        "sentence_text": "Section 2 Completion The I-9 Center, located in room 101 of the Administrative Services II (2711 Sullivan Drive), is open Monday 2013 Friday from 9:00 am 2013 4:00 pm. Walk-in appointments are available. If you have questions, please email i9questions@ncsu.edu.",
+        "annotations": [],
+        "chunk_start_idx": 2205,
+        "chunk_end_idx": 2466
+    },
+    {
+        "id": "email6",
+        "external_id": "email6.sentence_19-21",
+        "sentence_text": "    The I-9 Center has made many modifications to their building and their service to best ensure the safety of customers and their staff.  For your safety and the safety of others, the following are required of all individuals visiting the I-9 Hub:   You must wear a face mask during the appointment,     You must maintain a distance of least 6 feet from others, and    You must enter and exit only through the specifically marked doors.    Please review the following information about safety on the Protect the Pack website and in the How to Return to Campus Safely Guide.",
+        "annotations": [],
+        "chunk_start_idx": 2467,
+        "chunk_end_idx": 3042
+    },
+    {
+        "id": "email6",
+        "external_id": "email6.sentence_22-24",
+        "sentence_text": " Important information for F-1/J-1 international student employees:  Under U.S. employment law, an employee's attendance of an employer's required orientation, onboarding and/or trainings is considered employment hours and must be paid. As such, time spent in Wellness and Recreation 2019s orientation, onboarding, and trainings (including those completed remotely by the employee such as an online training done at home) will be recorded and paid by NCSU in the week(s) in which they occur. As a reminder, F-1/J-1 international students are limited to 20/hours per week of on-campus employment when school is in session.",
+        "annotations": [],
+        "chunk_start_idx": 3043,
+        "chunk_end_idx": 3664
+    },
+    {
+        "id": "email6",
+        "external_id": "email6.sentence_25-27",
+        "sentence_text": "Therefore, if you have other on-campus employment, you may need to reduce your hours at that job to ensure you do not exceed 20 hours/week total of on-campus employment when you attend Wellness and Recreation's required orientation, onboarding and/or trainings. If you have a 0.5 FTE graduate assistantship or are not able to reduce your current on-campus employment hours, you may need to attend the new employer's required events once Summer or Winter break has begun or during a week when there is a break in classes such as Fall Break, Thanksgiving Break, Spring Break, or Spring Holiday. If you have questions about this, please speak with an OIS advisor before attending these events.",
+        "annotations": [],
+        "chunk_start_idx": 3665,
+        "chunk_end_idx": 4355
+    },
+    {
+        "id": "email6",
+        "external_id": "email6.sentence_28-29",
+        "sentence_text": "   For questions related to Form I-9, E-Verify, and New Student Employee Orientation please contact Stephen Tucci at sltucci@ncsu.edu; for questions about your new position, please contact your direct supervisor.   -- Ben Strunk Assistant Director, Sports Programs Wellness and Recreation NC State University Division of Academic and Student Affairs P: 919.515.1862 wellrec.ncsu.edu  ",
+        "annotations": [],
+        "chunk_start_idx": 4356,
+        "chunk_end_idx": 4740
+    },
+    {
+        "id": "email7",
+        "external_id": "email7.sentence_1-3",
+        "sentence_text": "Hello pervert, I've sent this message from your iCloud mail.   I want to inform you about a very bad situation for you. However, you can benefit from it, if you will act wisely.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "I want to inform you about a very bad situation for you",
+                "start_offset": 63,
+                "end_offset": 118
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 177
+    },
+    {
+        "id": "email7",
+        "external_id": "email7.sentence_4-6",
+        "sentence_text": "  Have you heard of Pegasus? This is a spyware program that installs on computers and smartphones and allows hackers to monitor the activity of device owners. It provides access to your webcam, messengers, emails, call records, etc.",
+        "annotations": [],
+        "chunk_start_idx": 178,
+        "chunk_end_idx": 410
+    },
+    {
+        "id": "email7",
+        "external_id": "email7.sentence_7-9",
+        "sentence_text": "It works well on Android, iOS, and Windows. I guess, you already figured out where I'm getting at.   It's been a few months since I installed it on all your devices because you were not quite choosy about what links to click on the internet.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "It works well on Android, iOS, and Windows. I guess, you already figured out where I'm getting at.",
+                "start_offset": 0,
+                "end_offset": 98
+            }
+        ],
+        "chunk_start_idx": 411,
+        "chunk_end_idx": 652
+    },
+    {
+        "id": "email7",
+        "external_id": "email7.sentence_10-12",
+        "sentence_text": "During this period, I've learned about all aspects of your private life, but oene is of special significance to me.   I've recorded many videos of you jerking off to highly controversial poern videos. Given that the questionable genre is almost always the same, I can conclude that you have sick perversion.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "I can conclude that you have sick perversion.   I doubt you'd want your friends, family and co-workers to know about it. However, I can do it in a few clicks.   Every number in your contact Iist will suddenly receive these videoes - on WhatsApp, on Telegram, on Instagram, on Facebook, on email - everywher",
+                "start_offset": 262,
+                "end_offset": 306
+            }
+        ],
+        "chunk_start_idx": 653,
+        "chunk_end_idx": 960
+    },
+    {
+        "id": "email7",
+        "external_id": "email7.sentence_13-15",
+        "sentence_text": "  I doubt you'd want your friends, family and co-workers to know about it. However, I can do it in a few clicks.   Every number in your contact Iist will suddenly receive these videoes - on WhatsApp, on Telegram, on Instagram, on Facebook, on email - everywhere.",
+        "annotations": [],
+        "chunk_start_idx": 961,
+        "chunk_end_idx": 1223
+    },
+    {
+        "id": "email7",
+        "external_id": "email7.sentence_16-18",
+        "sentence_text": "It is going to be a tsunami that will sweep away everything in its path, and first of all, your foermer life.   Don't think of yourself as an innocent victim. No one knows where your perversioen might lead in the future, so consider this a kind of deserved punishment to stop you.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "consider this a kind of deserved punishment to stop you",
+                "start_offset": 224,
+                "end_offset": 279
+            }
+        ],
+        "chunk_start_idx": 1224,
+        "chunk_end_idx": 1504
+    },
+    {
+        "id": "email7",
+        "external_id": "email7.sentence_19-21",
+        "sentence_text": "  I'm some kind of God who sees everything. However, don't panic. As we know, God is merciful and forgiving,  and so do I.",
+        "annotations": [],
+        "chunk_start_idx": 1505,
+        "chunk_end_idx": 1627
+    },
+    {
+        "id": "email7",
+        "external_id": "email7.sentence_22-24",
+        "sentence_text": "But my mercy is not free.   Transfer 1200 USD to my Litecoin (LTC) wallet: ltc1qha0shlkywgxqyylcxy82gqnf0efqtwcx65yku0   Once I receive confirmation of the transaction, I will permanently delete all videos compromising you, uninstall Pegasus from all of your devices, and disappear from your life. You can be sure - my benefit is only money.",
+        "annotations": [],
+        "chunk_start_idx": 1628,
+        "chunk_end_idx": 1969
+    },
+    {
+        "id": "email7",
+        "external_id": "email7.sentence_25-27",
+        "sentence_text": "Otherwise, I wouldn't be writing to you, but destroy your life without a word in a second.   I'll be notified when you open my email, and from that moment you have exactly 48 hours to send the money. If cryptocurrencies are unchartered waters for you, don't worry, it's very simple.",
+        "annotations": [],
+        "chunk_start_idx": 1970,
+        "chunk_end_idx": 2252
+    },
+    {
+        "id": "email7",
+        "external_id": "email7.sentence_28-30",
+        "sentence_text": "Just google crypto exchange or buy 'Litecoin' and then it will be no harder than buying some useless stuff on Amazon.   I strongly warn you against the following: * Do not reply to this email. I've sent it from your iCloud mail.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "I strongly warn you against the following: * Do not reply to this email. I've sent it from your iCloud mail. * Do not contact the police. I have access to all your devices, and as soon as I find out you ran to the cops, videos ",
+                "start_offset": 120,
+                "end_offset": 227
+            }
+        ],
+        "chunk_start_idx": 2253,
+        "chunk_end_idx": 2481
+    },
+    {
+        "id": "email7",
+        "external_id": "email7.sentence_31-33",
+        "sentence_text": "* Do not contact the police. I have access to all your devices, and as soon as I find out you ran to the cops, videos will be published. * Don't try to reset or destroy your devices.",
+        "annotations": [],
+        "chunk_start_idx": 2482,
+        "chunk_end_idx": 2664
+    },
+    {
+        "id": "email7",
+        "external_id": "email7.sentence_34-36",
+        "sentence_text": "As I mentioned above: I'm monitoring all your activity, so you either agree to my terms or the videoes are published.   Also, don't forget that cryptocurrencies are anonymous, so it's impossible to identify me using the provided address.   Good luck, my perverted friend.",
+        "annotations": [],
+        "chunk_start_idx": 2665,
+        "chunk_end_idx": 2936
+    },
+    {
+        "id": "email7",
+        "external_id": "email7.sentence_37-38",
+        "sentence_text": "I hope this is the last time we hear from each other. And some friendly advice: from now on, don't be so careless about your online security.",
+        "annotations": [],
+        "chunk_start_idx": 2937,
+        "chunk_end_idx": 3078
+    },
+    {
+        "id": "email8",
+        "external_id": "email8.sentence_1-3",
+        "sentence_text": "Subject: IMPORTANT STUDENT VERIFICATION !!! THIS VERlFlCATl0N P0RTAL IS AIMED AT SCREENING ALL 0UR STUDENTS AND VALIDATING YOUR OLGCHS INFORMATION TO AVOID THE TERMINATION OF YOUR ACCOUNT. ALL UNVERlFlED ACC0UNTS WILL BE TERMINATED. Y0U ARE EXPECTED T0 PR0VlDE A VALlD OLGCHS DETAILS 0UR lT AGENT WlLL REACH 0UT T0 Y0U VALlDATE THE lNF0RMATl0N PR0VlDED BY Y0U WlTHlN 24HRS CLICK HERE TO COMPLETE YOUR VERIFICATION",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "ALL UNVERlFlED ACC0UNTS WILL BE TERMINATED.",
+                "start_offset": 189,
+                "end_offset": 232
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 413
+    },
+    {
+        "id": "email9",
+        "external_id": "email9.sentence_1-2",
+        "sentence_text": "Your membership may have expired. But if you click here you can extend your membership for 90 days for free",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "Your membership may have expired.",
+                "start_offset": 0,
+                "end_offset": 33
+            },
+            {
+                "label": "promise",
+                "text": "extend your membership for 90 days for free",
+                "start_offset": 64,
+                "end_offset": 106
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 107
+    },
+    {
+        "id": "email10",
+        "external_id": "email10.sentence_1-1",
+        "sentence_text": "Subject: EXPIRATION OF YOUR MEMBERSHIP IS IMMINENT  Renewal Invoice #4567UHBHU76T [Attachment: Renewal Invoice #4567UHBHU76T.pdf]",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "EXPIRATION OF YOUR MEMBERSHIP IS IMMINENT",
+                "start_offset": 9,
+                "end_offset": 50
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 129
+    },
+    {
+        "id": "email11",
+        "external_id": "email11.sentence_1-2",
+        "sentence_text": "Subject: You have Reward to Redeem Surprise in your inbox : Your Le Creuset Reward -Expiring Soon-   [link: https://ci3.googleusercontent.com/meips/ADKq_NaqTbL0hi7j86_gWSevISHBzwM34DYzLApk9eOfrs31VWajiS2XudYT_AfJjDPLD8ibmFqo=s0-d-e1-ft#https://i.imgur.com/8Mriftp.png]           [link: https://ppt.cc/fZ22Vx?ajjiie1iixzl98688myziw]  !            !            .      If you no longer wish to receive these emails, you may unsubscribe by clicking here [link: https://ppt.cc/fpv8Ex?76mk00r1fj183d3r1uoa7n] or by writing to  143 Exchange Blvd Ste 300, Hutto, TX, 78634",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "-Expiring Soon-",
+                "start_offset": 83,
+                "end_offset": 98
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 564
+    },
+    {
+        "id": "email12",
+        "external_id": "email12.sentence_1-3",
+        "sentence_text": "Subject: strong_in_god, Your Prime account will be removed today. Wed,05 Jun-2024  prime   Dear, strong_in_god   Your membership has expired   Your Subscription for Prime expired on Wed, 05 Jun 2024 18:13:40 -0400   We tried to renew your subscription at the end of each billing cycle, but your monthly payment has failed. We therefore had to cancel your subscription.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "your Prime account will be removed today",
+                "start_offset": 24,
+                "end_offset": 64
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 368
+    },
+    {
+        "id": "email12",
+        "external_id": "email12.sentence_4-6",
+        "sentence_text": "Obviously, we would love to see you again. If you wish to renew your subscription click on the link below.     UPDATE MY PAYMENT DETAILS    Subscription ID : F3892578-US Product: : Prime User Mail : strong_in_god@yahoo.com Expiration date: Wed, 05 Jun 2024 18:13:40 -0400    Confirm *Available ONLY TODAY*  To stop these please go here or write to: 616 Corporate Way Ste.2-9092 Valley Cottage, NY 10989",
+        "annotations": [
+            {
+                "label": "pii_request",
+                "text": "UPDATE MY PAYMENT DETAILS",
+                "start_offset": 111,
+                "end_offset": 136
+            }
+        ],
+        "chunk_start_idx": 369,
+        "chunk_end_idx": 771
+    },
+    {
+        "id": "email13",
+        "external_id": "email13.sentence_1-3",
+        "sentence_text": "Hi Chelsie, I need you to send me the aging report due within the next 30 days, and also include customer payable contact email on the report. I want to do some research with my time. Regards, Molly Chen",
+        "annotations": [
+            {
+                "label": "pii_request",
+                "text": "include customer payable contact email on the report",
+                "start_offset": 89,
+                "end_offset": 141
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 203
+    },
+    {
+        "id": "email14",
+        "external_id": "email14.sentence_1-2",
+        "sentence_text": "Password System Reminder The Password for makenzie.layne@usap.com is set to expire Today, 9 of May 2024. Continue using same password by clicking the button below to avoid login interruption",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "The Password for makenzie.layne@usap.com is set to expire Today",
+                "start_offset": 25,
+                "end_offset": 88
+            },
+            {
+                "label": "threat",
+                "text": "avoid login interruption",
+                "start_offset": 163,
+                "end_offset": 189
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 190
+    },
+    {
+        "id": "email15",
+        "external_id": "email15.sentence_1-3",
+        "sentence_text": "Subject: ROLL CALL To: Gregory Morris <gmorris@andrew.cmu.edu>    Office of the Recruitment Specialist,Student Services,Carnegie Mellon University Services, urgently requires a Research Assistant for a Remote Position to earn $300 weekly. The Student Services Recruitment Specialist,Stefan Bernhard  is currently working on Research and would require the services of Students (Graduate/Undergraduate) of any Department of the Institution to Obtain a Remote Position in this Research. Slots are limited and acceptance will be given on a first come first serve basis.",
+        "annotations": [
+            {
+                "label": "promise",
+                "text": "Research Assistant for a Remote Position to earn $300 weekly",
+                "start_offset": 177,
+                "end_offset": 237
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 565
+    },
+    {
+        "id": "email15",
+        "external_id": "email15.sentence_4-4",
+        "sentence_text": "    To proceed with the application process, contact Stefan Bernhard  via email at {berhs34@gmail.com <berhs34@gmail.com>} using your alternate email stating your full name, email address, year of study, and department regarding the job description and further application requirements.Prof Stefan BernhardThe Student Services Recruitment Specialist,Carnegie Mellon University Pittsburgh, PA   ",
+        "annotations": [
+            {
+                "label": "pii_request",
+                "text": "To proceed with the application process, contact Stefan Bernhard  via email at {berhs34@gmail.com <berhs34@gmail.com>} using your alternate email stating your full name, email address, year of study, and department",
+                "start_offset": 4,
+                "end_offset": 218
+            }
+        ],
+        "chunk_start_idx": 566,
+        "chunk_end_idx": 960
+    },
+    {
+        "id": "email16",
+        "external_id": "email16.sentence_1-3",
+        "sentence_text": "Subject: CMU Intern Opportunity at The Department of History To: Gregory Morris<gmorris@andrew.cmu.edu>  Students at Carnegie Mellon University!  The Department of History has some fantastic internship opportunities available, and the department welcomes applications from all majors. This opportunity is designed to provide financial assistance to students who might be facing some financial challenges, while also giving them the chance to gain some invaluable research experience.  These internships are completely remote! That means you can work from the comfort of your own home or even on-campus if you prefer.",
+        "annotations": [
+            {
+                "label": "promise",
+                "text": "These internships are completely remote! That means you can work from the comfort of your own home or even on-campus if you prefer. The time commitment is pretty chill too, with a maximum requirement of just seven hours a week. Plus, the schedules are super flexible, so you can easily fit them around your other commitments.",
+                "start_offset": 485,
+                "end_offset": 615
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 616
+    },
+    {
+        "id": "email16",
+        "external_id": "email16.sentence_4-6",
+        "sentence_text": "The time commitment is pretty chill too, with a maximum requirement of just seven hours a week. Plus, the schedules are super flexible, so you can easily fit them around your other commitments.  If you're chosen for one of these internships, you will receive a weekly salary of Three Hundred and Fifty dollars  If this sounds like an opportunity you don't want to miss, all you need to do is reach out to Professor Jay Aronson at aronsonjjay@gmail.com [mailto:aronsonjjay@gmail.com] with your full Names, year of study, department, school email address and alternative email address (preferably Gmail) for details about the job description and any additional application requirements.",
+        "annotations": [
+            {
+                "label": "promise",
+                "text": "you will receive a weekly salary of Three Hundred and Fifty dollars",
+                "start_offset": 242,
+                "end_offset": 309
+            },
+            {
+                "label": "pii_request",
+                "text": "if this sounds like an opportunity you don't want to miss, all you need to do is reach out to Professor Jay Aronson at aronsonjjay@gmail.com [mailto:aronsonjjay@gmail.com] with your full Names, year of study, department, school email address and alternative email address (preferably Gmail)",
+                "start_offset": 311,
+                "end_offset": 601
+            }
+        ],
+        "chunk_start_idx": 617,
+        "chunk_end_idx": 1301
+    },
+    {
+        "id": "email16",
+        "external_id": "email16.sentence_7-9",
+        "sentence_text": " Oh, and one more thing: these positions are filled on a first-come, first-served basis. So don't waste any time and get that email sent ASAP!  Sincerely, Office of the Department of History Carnegie Mellon University. ",
+        "annotations": [],
+        "chunk_start_idx": 1302,
+        "chunk_end_idx": 1521
+    },
+    {
+        "id": "email17",
+        "external_id": "email17.sentence_1-3",
+        "sentence_text": "Subject: Good360 Part-Time Job Offer To: gmorris@andrew.cmu.edu Good360 is seeking individuals to help expand their charity network across the country. They're looking for passionate individuals to join their team as Community Care Workers.  This part-time, work-from-home job offers a competitive weekly salary of $550.",
+        "annotations": [
+            {
+                "label": "promise",
+                "text": "This part-time, work-from-home job offers a competitive weekly salary of $550.",
+                "start_offset": 242,
+                "end_offset": 319
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 320
+    },
+    {
+        "id": "email17",
+        "external_id": "email17.sentence_4-5",
+        "sentence_text": "If you're interested in making a difference and joining their team alongside 1.5 million volunteers and 6.8 million donors, Kindly send your resume/application using your frequently personal email for regular communication.  Community Outreach Team Good360 ",
+        "annotations": [
+            {
+                "label": "pii_request",
+                "text": "Kindly send your resume/application using your frequently personal email for regular communication.",
+                "start_offset": 124,
+                "end_offset": 223
+            }
+        ],
+        "chunk_start_idx": 321,
+        "chunk_end_idx": 578
+    },
+    {
+        "id": "email18",
+        "external_id": "email18.sentence_1-3",
+        "sentence_text": "subject: Re: Mastering Tech Skills Program  The tech industry is evidence driven as recruiters want to see projects executed within time limits.      Are you willing to work remotely as a part- time, Data Entry Operator/Data Analyst    Wages: USD 500 WEEKLY  Work hours: 2 - 3 Hours WEEKLY (At Your Own Availability)      No Qualifications are required as you will be properly Trained.       If interested, for more information send your name and phone number for review directly to pearsontammy1991@gmail.com    Best Regards  ",
+        "annotations": [
+            {
+                "label": "promise",
+                "text": "work remotely as a part- time, Data Entry Operator/Data Analyst    Wages: USD 500 WEEKLY  Work hours: 2 - 3 Hours WEEKLY (At Your Own Availability)      No Qualifications are required as you will be properly Trained.",
+                "start_offset": 150,
+                "end_offset": 385
+            },
+            {
+                "label": "pii_request",
+                "text": "If interested, for more information send your name and phone number for review directly to pearsontammy1991@gmail.com",
+                "start_offset": 392,
+                "end_offset": 509
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 527
+    },
+    {
+        "id": "email19",
+        "external_id": "email19.sentence_1-3",
+        "sentence_text": "subject: Re: STUDENT PART-TIME INTERNSHIP PROGRAM  We are currently hiring students to work remotely as a Virtual Administrative Assistant to give DATA ENTRY support and get paid $550 weekly.  No skills are required as you will be trained. All tasks will be carried out virtually on your Computer.",
+        "annotations": [
+            {
+                "label": "promise",
+                "text": "hiring students to work remotely as a Virtual Administrative Assistant",
+                "start_offset": 68,
+                "end_offset": 138
+            },
+            {
+                "label": "promise",
+                "text": "get paid $550 weekly",
+                "start_offset": 170,
+                "end_offset": 190
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 297
+    },
+    {
+        "id": "email19",
+        "external_id": "email19.sentence_4-5",
+        "sentence_text": " To proceed with this application, kindly send  your full name and functional phone number for review and interview about the Job position to: drkayden.meyer@gmail.com  Thanks. ",
+        "annotations": [
+            {
+                "label": "pii_request",
+                "text": "To proceed with this application, kindly send  your full name and functional phone number",
+                "start_offset": 1,
+                "end_offset": 90
+            }
+        ],
+        "chunk_start_idx": 298,
+        "chunk_end_idx": 475
+    },
+    {
+        "id": "email20",
+        "external_id": "email20.sentence_1-3",
+        "sentence_text": "Subject: JOB OFFER - HIRING NCSU STUDENTS NOW Hello student,   I'm glad to inform you Nagina Cotton Mills Limited is currently running a part time job opportunity program that helps hard working and reliable student like you qualify for an avenue to earn more income within few hours and once a week.   Weekly Payment: $550 weekly. READ CAREFULLY: This program does not hinder you from doing others job but as a student it helps to build your financial status.",
+        "annotations": [
+            {
+                "label": "promise",
+                "text": "hard working and reliable student like you qualify for an avenue to earn more income within few hours and once a week.   Weekly Payment: $550 weekly.",
+                "start_offset": 182,
+                "end_offset": 331
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 460
+    },
+    {
+        "id": "email20",
+        "external_id": "email20.sentence_4-6",
+        "sentence_text": "    ABOUT THE COMPANY     Nagina Group was founded on May 16th 1967 with the incorporation of Nagina Cotton Mills Limited. Since then Nagina Group has expanded its operations in textile manufacturing and has diversified into other sectors. Currently, Nagina Group's textile manufacturing capacity is 141,708  spindles and 382 air jet looms.",
+        "annotations": [],
+        "chunk_start_idx": 461,
+        "chunk_end_idx": 801
+    },
+    {
+        "id": "email20",
+        "external_id": "email20.sentence_7-9",
+        "sentence_text": "A steady and well thought out growth strategy coupled with a solid commitment to quality has earned Nagina Group a family of satisfied customers, hardworking employees, appreciative shareholders and the confidence of the banking community. The core businesses of Nagina Group generate an annual turnover in excess of 180 Million US dollars. Due to decades of dealing with Pakistani, North American, European and Far Eastern customers Nagina Group has created a skilled and knowledgeable management fully capable of understanding and responding to customer needs in record time.",
+        "annotations": [],
+        "chunk_start_idx": 802,
+        "chunk_end_idx": 1379
+    },
+    {
+        "id": "email20",
+        "external_id": "email20.sentence_10-12",
+        "sentence_text": "Nagina Group consists of three publicly listed companies on the Pakistan Stock Exchange (Nagina Cotton Mills Limited, Ellcot Spinning Mills Limited, Prosperity Weaving Mills Limited), five private companies (Monell (Pvt.) Limited, Icaro (Pvt.) Limited, Haroon Omer (Pvt.) Limited, Ellahi International (Pvt.) Limited), ARH (Pvt.) Limited), and employs over 3,500 employees. Nagina Group was selected in 2003 by Forbes Magazine as one of the best 200 international companies with an annual turnover of under a billion US dollars.     Job Description:- Financial Empowerment.",
+        "annotations": [],
+        "chunk_start_idx": 1380,
+        "chunk_end_idx": 1953
+    },
+    {
+        "id": "email20",
+        "external_id": "email20.sentence_13-15",
+        "sentence_text": "Job Title:- Middlemen Job Type:- Part Time Weekly Payment:- $550 Required hours:- 2 hours/weekly   Responsibilities:- Your task for the company will basically be on helping the supplier to keep record of materials he or she bought for the week.You will be getting paid every Friday of the week; we shall Email you a paycheck to cover your weekly payment and also includes money for you to pay the supplier so he or she can start working on materials that will be supplied.     The supplier will only order for materials weekly between Mondays and Saturdays depending on the task he/she is to complete for that week. You are to carry out your own job task as assigned to you and this may require 2-hours in a day and once in a week.",
+        "annotations": [
+            {
+                "label": "promise",
+                "text": "Type:- Part Time Weekly Payment:- $550 Required hours:- 2 hours/weekly",
+                "start_offset": 26,
+                "end_offset": 96
+            }
+        ],
+        "chunk_start_idx": 1954,
+        "chunk_end_idx": 2685
+    },
+    {
+        "id": "email20",
+        "external_id": "email20.sentence_16-18",
+        "sentence_text": "No prior experience is necessary because we would give you instructions and guidelines on how to carry out your job task perfectly and effectively. Your own part of the work can be completed at your leisure time in school or at home. But, we do not encourage delay.",
+        "annotations": [
+            {
+                "label": "promise",
+                "text": "Your own part of the work can be completed at your leisure time in school or at home",
+                "start_offset": 148,
+                "end_offset": 232
+            }
+        ],
+        "chunk_start_idx": 2686,
+        "chunk_end_idx": 2951
+    },
+    {
+        "id": "email20",
+        "external_id": "email20.sentence_19-21",
+        "sentence_text": "You have to keep to the instructions and guidelines so as to get your part of the job done effectively. If you wish to proceed with the job, get back to us with your valid information     Requirements:     FULL NAME PHYSICAL CONTACT ADDRESS or P.O BOX CITY STATE ZIP CODE D.O.B GENDER PHONE NUMBER PERSONAL EMAIL CURRENT JOB.   We shall contact you as soon as we receive and validate the information you provide.",
+        "annotations": [
+            {
+                "label": "pii_request",
+                "text": "If you wish to proceed with the job, get back to us with your valid information     Requirements:     FULL NAME PHYSICAL CONTACT ADDRESS or P.O BOX CITY STATE ZIP CODE D.O.B GENDER PHONE NUMBER PERSONAL EMAIL CURRENT JOB.",
+                "start_offset": 104,
+                "end_offset": 325
+            }
+        ],
+        "chunk_start_idx": 2952,
+        "chunk_end_idx": 3364
+    },
+    {
+        "id": "email20",
+        "external_id": "email20.sentence_22-23",
+        "sentence_text": "Get back to us with your response to know you are interested in this program.   Nagina Cotton Mills Ltd  ",
+        "annotations": [],
+        "chunk_start_idx": 3365,
+        "chunk_end_idx": 3470
+    },
+    {
+        "id": "email21",
+        "external_id": "email21.sentence_1-3",
+        "sentence_text": "Subject: Interview Invite: Undergraduate student experiencenHey there! Checking in: how's life at North Carolina State University at Raleigh? We're eager to improve life on campus, and you can help! Fill out our quick survey to share your thoughts on the campus political climate. The next 37 students to finish the survey will get $8 to spend at coffee shops and 700+ stores & charities.",
+        "annotations": [
+            {
+                "label": "promise",
+                "text": "The next 37 students to finish the survey will get $8 to spend at coffee shops and 700+ stores & charities.",
+                "start_offset": 281,
+                "end_offset": 387
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 388
+    },
+    {
+        "id": "email22",
+        "external_id": "email22.sentence_1-3",
+        "sentence_text": "From: FEDEX Delivery\u00ae <upsdelivery@fdhuzihizd.org> Date: April 30, 2024 at 5:21:24\u202fAM EDT To: djmacfadyen@gmail.com Subject: djmacfadyen: You have (\ud835\udfcf) packages Waiting for Delivery  \ud835\udc08\ud835\udc03#?= 59435   Can't view this email correctly? Click Here FedEx     Confirm your order  Hi djmacfadyen, A package addressed to you just arrived at our local dispatch facility. However, there was mismtach of address due to logistic handling at our end.",
+        "annotations": [],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 433
+    },
+    {
+        "id": "email22",
+        "external_id": "email22.sentence_4-6",
+        "sentence_text": "We urge you to kindly update our address system with your address to enable us get your package accross. Address Verification System  We hope to get your package accross before the end of the business day.    Sincerely Package Dispatch Manager  Sent with  from FedEx \u00a92024 FedEx. The content of this message is protected by copyright and trademark laws under U.S. and international law.",
+        "annotations": [
+            {
+                "label": "pii_request",
+                "text": "update our address system with your address",
+                "start_offset": 25,
+                "end_offset": 68
+            }
+        ],
+        "chunk_start_idx": 434,
+        "chunk_end_idx": 820
+    },
+    {
+        "id": "email22",
+        "external_id": "email22.sentence_7-9",
+        "sentence_text": "Rewiew our privacy policy. All rights reserved.   If you want to unsubscribe from all future mailings, please Click Here          ",
+        "annotations": [],
+        "chunk_start_idx": 821,
+        "chunk_end_idx": 951
+    },
+    {
+        "id": "email23",
+        "external_id": "email23.sentence_1-3",
+        "sentence_text": "Subject: Re: Send Price List Hi djmacfadyen@gmail.com We are purely an SEO Company: we can place your website on top of the Natural Listings on Google. nWe can fairly quickly promote your website to the top of the search rankings. We would be happy to send you a proposal using the top search phrases for your area of expertise.",
+        "annotations": [
+            {
+                "label": "promise",
+                "text": "We can fairly quickly promote your website to the top of the search rankings",
+                "start_offset": 153,
+                "end_offset": 229
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 328
+    },
+    {
+        "id": "email23",
+        "external_id": "email23.sentence_4-6",
+        "sentence_text": "Please let me know if you are interested! May I send you quote/Packages and price list. Looking forward to your reply. Best Regards, Stephen, (SEO Consultant)",
+        "annotations": [],
+        "chunk_start_idx": 329,
+        "chunk_end_idx": 487
+    },
+    {
+        "id": "email24",
+        "external_id": "email24.sentence_1-3",
+        "sentence_text": "Subject : NCSU; CLINICAL POST Hello,  This is DR Maya Ali, I fill in as a clinical guide for the  Department of Disability of Health and Human Services (DHHS).. I give individual and gathering treatment as well as training, evaluation, and scholastic screenings to help understudies with physical and mental handicaps, among others enrolled with the DHHS. An enormous level of the understudies served by this psychological well-being unit have mental or co-horrible mental inabilities and need emotional wellness backing to find lasting success at the college.",
+        "annotations": [],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 560
+    },
+    {
+        "id": "email24",
+        "external_id": "email24.sentence_4-6",
+        "sentence_text": "Accordingly, the unit gives the expected emotional well-being support while seeing and surveying undiscovered college understudies with scholastic hardships through the scholarly screening and evaluation process. Close to that, I am the overseer of the management, preparing, and coordination of Directing Brain research and Clinical Brain research graduate understudies of the US who have practicum at DHHS and APA-licensed school brain science predoctoral entry level positions. You have gotten this email since you have a proposal from the College Office to work with me.",
+        "annotations": [],
+        "chunk_start_idx": 561,
+        "chunk_end_idx": 1135
+    },
+    {
+        "id": "email24",
+        "external_id": "email24.sentence_7-9",
+        "sentence_text": " Would it be a good idea for you to acknowledge the proposition you'll briefly go about as my own colleague while we assist understudies with handicaps who are disappointed with obliviousness and the absence of administrations. To fulfill any interest you could have, I care about creature government assistance, expressions and culture, kids, social equality and social activity, schooling, climate, catastrophe and philanthropic alleviation, social administrations, and parts more.  This is extremely straightforward work.",
+        "annotations": [],
+        "chunk_start_idx": 1136,
+        "chunk_end_idx": 1660
+    },
+    {
+        "id": "email24",
+        "external_id": "email24.sentence_10-12",
+        "sentence_text": "You will just assist me with mailing a few letters, make a couple of installments at Walmart, and buy a few things when required. This business just requires an hour daily, 2-3 days per week, for $900 week after week. I can't get together for a meeting since I'm currently away, helping handicapped understudies in Australia.",
+        "annotations": [
+            {
+                "label": "promise",
+                "text": "This business just requires an hour daily, 2-3 days per week, for $900 week after week.",
+                "start_offset": 130,
+                "end_offset": 217
+            }
+        ],
+        "chunk_start_idx": 1661,
+        "chunk_end_idx": 1986
+    },
+    {
+        "id": "email24",
+        "external_id": "email24.sentence_13-15",
+        "sentence_text": "By the way, you will be paid ahead of time for all undertakings done for my sake. A portion of my letters/mail will be sent to your home or close by the mailing station for you to get up whenever the timing is ideal. Upon my appearance, we will examine the chance of making this a drawn out work in the event that I am dazzled with your administrations while I'm away.",
+        "annotations": [],
+        "chunk_start_idx": 1987,
+        "chunk_end_idx": 2355
+    },
+    {
+        "id": "email24",
+        "external_id": "email24.sentence_16-18",
+        "sentence_text": "I received your email through a waitlist from the HR Division to give out positions to a couple of understudies at your college. The college knows about everything. Mercifully give the underneath Data to apply:  labels: Address: Telephone Number: Age: Elective email unique in relation to school email:  Anticipating hearing from you soon.",
+        "annotations": [
+            {
+                "label": "pii_request",
+                "text": " Data to apply:  labels: Address: Telephone Number: Age: Elective email unique in relation to school email:",
+                "start_offset": 195,
+                "end_offset": 302
+            }
+        ],
+        "chunk_start_idx": 2356,
+        "chunk_end_idx": 2695
+    },
+    {
+        "id": "email24",
+        "external_id": "email24.sentence_19-21",
+        "sentence_text": "Much appreciated.  Heartily.  DR Maya Ali  ",
+        "annotations": [],
+        "chunk_start_idx": 2696,
+        "chunk_end_idx": 2739
+    },
+    {
+        "id": "email25",
+        "external_id": "email25.sentence_1-3",
+        "sentence_text": "Subject : I'm waiting to hear from you Good day, I'm Dr. Mrs. Valerie Baptiste-Andrews, married to late Mr. Serge Baptiste-Andrews, who was a businessman and a politician here. Before his sudden death we deposited the sum of $2.8 million dollars in one of the banks here.",
+        "annotations": [
+            {
+                "label": "promise",
+                "text": "Before his sudden death we deposited the sum of $2.8 million dollars in one of the banks here. I am very sick and diagnosed, so i decided to financially support disability and less fortunate people. Give 80% of the funds to disabilities and less fortunate people. The re",
+                "start_offset": 176,
+                "end_offset": 270
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 271
+    },
+    {
+        "id": "email25",
+        "external_id": "email25.sentence_4-6",
+        "sentence_text": "I am very sick and diagnosed, so i decided to financially support disability and less fortunate people. Give 80% of the funds to disabilities and less fortunate people. The remaining 20% is for your efforts.",
+        "annotations": [],
+        "chunk_start_idx": 272,
+        "chunk_end_idx": 479
+    },
+    {
+        "id": "email25",
+        "external_id": "email25.sentence_7-9",
+        "sentence_text": "I want to fulfill the vow i made with my late husband. I will give you more details as soon as i hear from you. Dr. Mrs.",
+        "annotations": [],
+        "chunk_start_idx": 480,
+        "chunk_end_idx": 600
+    },
+    {
+        "id": "email25",
+        "external_id": "email25.sentence_10-10",
+        "sentence_text": "Valerie Baptiste-Andrews  ",
+        "annotations": [],
+        "chunk_start_idx": 601,
+        "chunk_end_idx": 627
+    },
+    {
+        "id": "email26",
+        "external_id": "email26.sentence_1-3",
+        "sentence_text": "From: Mr.George Emeka Emerah <accdeptfedminofagricnigeria@gmail.com> Date: Fri, May 10, 2024 at 5:50\u202fAM Subject: Ministry of Agriculture .M.18 To:   Dear Friend   My apology for sending this unsolicited mail to you; I actually got your e-mail contact through my online exploration for proficient business persons and l decided to contact you directly about this business venture. I was assigned by my colleague to seek for a foreign partner who will assist us in providing a convenient foreign account in any designated bank abroad for the transfer of us$75,500,000.00 pending on our arrival in your country for utilization and disbursement with the owner of the account.  This amount results from a deliberate inflation of the text of a contract awarded by our ministry, the Federal Ministry of Agriculture (F.M.A)to an expatriate company.the contract has been executed and payment made to the original contractor, remaining the over-invoiced amount of us$75,500,000.00 million, which we want to transfer the funds out the country in our favour for disbursement among ourselves.",
+        "annotations": [],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 1079
+    },
+    {
+        "id": "email26",
+        "external_id": "email26.sentence_4-6",
+        "sentence_text": "The transfer of this money can only be possible with the help of a foreigner who will be presented as the beneficiary of the fund.  As government officials, we are not allowed to operate foreign accounts, and this is the reason why we decided to contact you. We have agreed that if you/your company can act as the beneficiary of this fund (us$75,500,000.00 million)20% of the total sum will be for you for providing the account while 80% will be reserved for us.",
+        "annotations": [
+            {
+                "label": "promise",
+                "text": "We have agreed that if you/your company can act as the beneficiary of this fund (us $75,500,000.00 million) 20% of the total sum will be for you for providing the account while 80% will be reserved for us",
+                "start_offset": 259,
+                "end_offset": 461
+            }
+        ],
+        "chunk_start_idx": 1080,
+        "chunk_end_idx": 1542
+    },
+    {
+        "id": "email26",
+        "external_id": "email26.sentence_7-9",
+        "sentence_text": " We hereby solicit for your assistance in providing a convenient account number in a designated bank abroad where this fund would be transferred. We intend coming over there on the completion of this transfer to secure our own share of the money.  Please note that we have been careful and have made all arrangements towards the success and smooth transfer of the fund to your account before you.",
+        "annotations": [],
+        "chunk_start_idx": 1543,
+        "chunk_end_idx": 1939
+    },
+    {
+        "id": "email26",
+        "external_id": "email26.sentence_10-12",
+        "sentence_text": "For security reasons and confidentiality of this transaction, we demand that you should not expose this proposal and the entire transaction to anybody.  We are putting so much trust in you with the hope that you would not betray us or sit on this money when it is finally transferred into your account. Be rest assured that this transaction is 100% risk free.",
+        "annotations": [],
+        "chunk_start_idx": 1940,
+        "chunk_end_idx": 2299
+    },
+    {
+        "id": "email26",
+        "external_id": "email26.sentence_13-15",
+        "sentence_text": "If this proposal is acceptable to you,indicate your interest by sending a email to us including your bank label & address, account number,telephone number.  Note that the particular nature of your company's business is irrelevant to this transaction. if this transaction interests you, your urgent response will be appreciated.",
+        "annotations": [],
+        "chunk_start_idx": 2300,
+        "chunk_end_idx": 2627
+    },
+    {
+        "id": "email26",
+        "external_id": "email26.sentence_16-17",
+        "sentence_text": " Yours faithfully,    Mr.George Emeka Emerah Director, Finance Mini of Agriculture. Email:mrgeorgeemerah2@gmail.com My Cellphone:+ 234-911-815-7020 Whattsapp:+ 234-911-815-7020 ",
+        "annotations": [],
+        "chunk_start_idx": 2628,
+        "chunk_end_idx": 2805
+    },
+    {
+        "id": "email27",
+        "external_id": "email27.sentence_1-3",
+        "sentence_text": "From: Connolly Donation\u00ae <aasif.sayyed@tikona.co.in> Date: Mon, May 13, 2024 at 4:27\u202fPM Subject: To:     Greetings,   My label is Patrick Connolly, In 2019, My wife and I won the sum of \u00a3115 million Pounds on the EuroMillions jackpot. We are giving some of the money we won back to the community to help others. We have donated 25% of our winnings to Charities.",
+        "annotations": [],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 361
+    },
+    {
+        "id": "email27",
+        "external_id": "email27.sentence_4-6",
+        "sentence_text": "And we also plan to give away another 25% to private individuals this year (2024). We have decided to donate US$37,500,000 to 50 random people. Your Reference Code is (REPUK/FPC2024/48765/BLN).",
+        "annotations": [],
+        "chunk_start_idx": 362,
+        "chunk_end_idx": 555
+    },
+    {
+        "id": "email27",
+        "external_id": "email27.sentence_7-9",
+        "sentence_text": " We sent this message out to 2800 random email addresses. If you receive this email with a reference code in it, then it means the sum of $750,000 will be donated to you. Reply this email to claim your price, please include your reference number in the email.",
+        "annotations": [
+            {
+                "label": "promise",
+                "text": "the sum of $750,000 will be donated to you",
+                "start_offset": 127,
+                "end_offset": 169
+            }
+        ],
+        "chunk_start_idx": 556,
+        "chunk_end_idx": 815
+    },
+    {
+        "id": "email27",
+        "external_id": "email27.sentence_10-12",
+        "sentence_text": " Regards Frances Connolly _______________________________  HTML Disclaimer Please do not print this email unless it is absolutely necessary Warning : This message contains business confidential information . This message does not affect or modify any binding agreement nor state official policy of Tikona Infinet Pvt. Ltd.",
+        "annotations": [],
+        "chunk_start_idx": 816,
+        "chunk_end_idx": 1138
+    },
+    {
+        "id": "email27",
+        "external_id": "email27.sentence_13-15",
+        "sentence_text": "(TIPL ) unless digitally signed by TIPL's authorised signatory. TIPL does not accept any liability for any errors, loss, delayed delivery, tampering, corruption or presence of viruses in this message or any attachment.  ",
+        "annotations": [],
+        "chunk_start_idx": 1139,
+        "chunk_end_idx": 1359
+    },
+    {
+        "id": "email28",
+        "external_id": "email28.sentence_1-3",
+        "sentence_text": "From: Dr. Jessica Williams <jw0395342@gmail.com> Date: Wed, May 1, 2024 at 7:16\u202fPM Subject: Data Entry Assistant job offer To:   GOOD NEWS! GOOD NEWS!! GOOD NEWS!!! This is a great opportunity for you to work while studying. Do you know you can make up to $550 weekly by working remotely and you will get paid. This will not affect your study, and this can also prepare you ahead.",
+        "annotations": [
+            {
+                "label": "promise",
+                "text": "$550 weekly by working remotely",
+                "start_offset": 256,
+                "end_offset": 287
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 380
+    },
+    {
+        "id": "email28",
+        "external_id": "email28.sentence_4-4",
+        "sentence_text": "If you are interested and can work as a Virtual Assistant, kindly send your label, and phone number for interview and review to: drjamesnelson24@gmail.com Thanks   ",
+        "annotations": [],
+        "chunk_start_idx": 381,
+        "chunk_end_idx": 545
+    },
+    {
+        "id": "email29",
+        "external_id": "email29.sentence_1-3",
+        "sentence_text": "Subject: Work Study: North Carolina State University From The Office Of Mr. Daniels Brantley, Salary: $400/Weekly Hours: 1-3 Hours/Daily  Job Description: The Dean's office requires the services of students to assist professors with correspondence, keep records, make appointments, and carry out similar tasks.. You can work from home with reasonable wages & bonuses. The pay is reasonable enough and you can participate in this position regardless.",
+        "annotations": [
+            {
+                "label": "promise",
+                "text": "Salary: $400/Weekly Hours: 1-3 Hours/Daily",
+                "start_offset": 94,
+                "end_offset": 136
+            },
+            {
+                "label": "promise",
+                "text": "You can work from home with reasonable wages & bonuses",
+                "start_offset": 312,
+                "end_offset": 366
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 449
+    },
+    {
+        "id": "email29",
+        "external_id": "email29.sentence_4-6",
+        "sentence_text": "The job does not require any experience or special skills needed to participate in this position. Whatever talents or passions you may possess, you will be a welcome addition to this Part-Time Position.  Qualifications: Microsoft office knowledge (word, excel, Power Point)  Trustworthy  Excellent observational skills.",
+        "annotations": [],
+        "chunk_start_idx": 450,
+        "chunk_end_idx": 769
+    },
+    {
+        "id": "email29",
+        "external_id": "email29.sentence_7-9",
+        "sentence_text": " Computer Savvy  Additional Information: To apply for this position, kindly contact DR. SEUNG LEE via Signal Mobile App on +1 (910) 275-5049, and make sure you apply with the following information: your full name, email address, year of study, and department. Once again Failure to apply appropriately may cause delay in processing your application.",
+        "annotations": [
+            {
+                "label": "pii_request",
+                "text": "To apply for this position, kindly contact DR. SEUNG LEE via Signal Mobile App on +1 (910) 275-5049, and make sure you apply with the following information: your full name, email address, year of study, and department.",
+                "start_offset": 41,
+                "end_offset": 259
+            }
+        ],
+        "chunk_start_idx": 770,
+        "chunk_end_idx": 1119
+    },
+    {
+        "id": "email29",
+        "external_id": "email29.sentence_10-11",
+        "sentence_text": "  Best Regards  C/O DR. SEUNG LEE Title: Research Scholar Dean's Office North Carolina State University  ",
+        "annotations": [],
+        "chunk_start_idx": 1120,
+        "chunk_end_idx": 1225
+    },
+    {
+        "id": "email30",
+        "external_id": "email30.sentence_1-3",
+        "sentence_text": "From: lkandrews@imetweb.net <lkandrews@imetweb.net> Date: Wed, May 15, 2024 at 5:20\u202fPM Subject: Dear winner To:   Dear winner  I am Mr Richard Wahl, the mega winner of $533 Million USD in Mega Millions Jackpot, I'm donating to 5 random individuals. If you get this email then your email was selected after a spin ball. I have spread most of my wealth over a number of charities and organizations.I have voluntarily decided to donate the sum of $2 Million USD to you as one of the selected 5, to verify my winnings please see my youtube website page below.",
+        "annotations": [
+            {
+                "label": "promise",
+                "text": "I'm donating to 5 random individuals. If you get this email then your email was selected",
+                "start_offset": 211,
+                "end_offset": 299
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 555
+    },
+    {
+        "id": "email30",
+        "external_id": "email30.sentence_4-6",
+        "sentence_text": "WATCH ME HERE: https: //www.youtube.com/watch?v=tne02ExNDrw ___________________________________________________________ THIS IS YOUR DONATION CODE: 0043034  Reply with the DONATION CODE to this email: edwar_roggers@yahoo.com He will send it to you either by Cashier check or ATM Card.  Contact my personal Assistant label: Mr.Edward Rogers Email: (edwar_roggers@yahoo.com)  Hope to make you and your family happy.  Regards  Mr.Richard Wahl ",
+        "annotations": [],
+        "chunk_start_idx": 556,
+        "chunk_end_idx": 996
+    },
+    {
+        "id": "email31",
+        "external_id": "email31.sentence_1-3",
+        "sentence_text": "Subject: Virtual Internship Program kadavi26,          You have been offered an Internship at the convenience of your home or school, Which serve as a gateway to pay all expenses incurred on campus. This opportunity should be done at leisure taking at most 1hr/day, 2-3 times a week.  Key Responsibilities:     Carry out support tasks as directed with a strong sense of responsibility.",
+        "annotations": [
+            {
+                "label": "promise",
+                "text": "This opportunity should be done at leisure taking at most 1hr/day, 2-3 times a week.",
+                "start_offset": 199,
+                "end_offset": 283
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 385
+    },
+    {
+        "id": "email31",
+        "external_id": "email31.sentence_4-6",
+        "sentence_text": "     Handling various administrative tasks, including filing, faxing, email correspondence, and document scanning. Specific Tasks:      Handling various administrative tasks, including filing, faxing, email correspondence and document scanning.      Managing and overseeing financial activities.",
+        "annotations": [],
+        "chunk_start_idx": 386,
+        "chunk_end_idx": 681
+    },
+    {
+        "id": "email31",
+        "external_id": "email31.sentence_7-9",
+        "sentence_text": "     Keeping well-organized records. Weekly Salary:     Compensation of $400 per week. Requirements:     Strong planning, communication, and organizational skills.",
+        "annotations": [
+            {
+                "label": "promise",
+                "text": "Compensation of $400 per week",
+                "start_offset": 56,
+                "end_offset": 85
+            }
+        ],
+        "chunk_start_idx": 682,
+        "chunk_end_idx": 845
+    },
+    {
+        "id": "email31",
+        "external_id": "email31.sentence_10-12",
+        "sentence_text": "    A commitment to honesty, reliability, and dependability.     Exceptional organizational skills with a keen eye for detail.     Proficiency in using the Internet and email.",
+        "annotations": [],
+        "chunk_start_idx": 846,
+        "chunk_end_idx": 1021
+    },
+    {
+        "id": "email31",
+        "external_id": "email31.sentence_13-14",
+        "sentence_text": "    To apply, please send your resume and confirm your current information. Information Required: Full Names: Cell Phone: Alternative Email Address: to;  Professor Kimberly Carpenter  Email:   kimbrcarpnter@gmail.com         University Human Resources 2711 Sullivan Drive Administrative Services Building II, 2nd Floor Raleigh, North Carolina 27695 ncsu.edu [Attachment: NCSU Virtual Internship Program.pdf] ",
+        "annotations": [
+            {
+                "label": "pii_request",
+                "text": "To apply, please send your resume and confirm your current information. Information Required: Full Names: Cell Phone: Alternative Email Address: to;  Professor Kimberly Carpenter  Email:   kimbrcarpnter@gmail.com",
+                "start_offset": 4,
+                "end_offset": 216
+            }
+        ],
+        "chunk_start_idx": 1022,
+        "chunk_end_idx": 1430
+    },
+    {
+        "id": "email32",
+        "external_id": "email32.sentence_1-3",
+        "sentence_text": "From: Mr Frank Rafael <franKrafael3641@gmail.com> Date: June 8, 2024 at 8:57:53\u202fAM EDT Subject: Hello Reply-To: rafaelfrank668@gmail.com To:  David Macfadyen <david.macfadyen@ihire.com>    Hello.  My label is FranK Rafael ,the only son of Galliers John Rafael, from Sierra Leone, I am 21years old boy, my father was director of finance gold and diamond company in  my country Sierra Leone but he married my mother from Cote d'Ivoire, my parents have an auto accident of which my mother died instantly, before the death of my father  in one of private hospital in our country Sierra Leone, my father called me secretly and told me that he deposited $9.000,000,00 million dollars into fixed deposit  account with gold to the bank in indonesia, and he used my label as next of kin, I contacting you to help me to transfer the money into your account for my investment  in your country.Where I will be saved, sincerely I have been facing a difficulties life since the death of my parents, my uncles plan to take away this money from me  they have tried to kill me, I need to leave this place before my uncles killed me, be assured if you help me to transfer this money into your account, I will offer you  20% from the money as compensation, I am waiting to hear from you for more information.  Mr.FranK Rafael.",
+        "annotations": [
+            {
+                "label": "promise",
+                "text": "20% from the money as compensation",
+                "start_offset": 1202,
+                "end_offset": 1236
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 1307
+    },
+    {
+        "id": "email32",
+        "external_id": "email32.sentence_4-4",
+        "sentence_text": " ",
+        "annotations": [],
+        "chunk_start_idx": 1308,
+        "chunk_end_idx": 1309
+    },
+    {
+        "id": "email33",
+        "external_id": "email33.sentence_1-3",
+        "sentence_text": "From: Xiaoyi Gao <GAOX011@olgchs.org> Date: May 15, 2024 at 8:48:39\u202fAM EDT Subject: JOB INVITATION NOTICE, STUDENTS & STAFFS At OLGCHS we are aware of the need for a PART TIME job by our students which is why we are offering our students the chance to work and earn over $520 weekly!  This job is specifically for OLGCHS students seeking a PT job from home. Job is open to all and everyone interested. CLICK HERE for details and application.",
+        "annotations": [
+            {
+                "label": "promise",
+                "text": "PART TIME",
+                "start_offset": 166,
+                "end_offset": 175
+            },
+            {
+                "label": "promise",
+                "text": "over $520 weekly",
+                "start_offset": 266,
+                "end_offset": 282
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 441
+    },
+    {
+        "id": "email34",
+        "external_id": "email34.sentence_1-3",
+        "sentence_text": "From: Curtis Griggs <GRIG011@olgchs.org> Date: May 16, 2024 at 7:29:43\u202fAM EDT Subject: OLGCHS JOB OFFER RECRUITMENT  Urgently needed are remote workers who can handle day-to-day errands, mystery shopping, purchases and mailing of goods and services to customers on a daily basis. This position will be home-based 0r Campus/ any location and it's a flexible part time job, you can be working from home, School, or any location .The job requires just 2hrs daily and 4days weekly. Payment of $650+ weekly.",
+        "annotations": [
+            {
+                "label": "promise",
+                "text": "flexible part time job, you can be working from home, School, or any location .The job requires just 2hrs daily and 4days weekly. Payment of $650 + weekly",
+                "start_offset": 348,
+                "end_offset": 501
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 502
+    },
+    {
+        "id": "email34",
+        "external_id": "email34.sentence_4-4",
+        "sentence_text": "Reply with your ; label, PHONE NUMBER to jobsrecruiter_olgchs@outlook.com  ",
+        "annotations": [
+            {
+                "label": "pii_request",
+                "text": "Reply with your ; NAME, PHONE NUMBER to jobsrecruiter_olgchs@outlook.com",
+                "start_offset": 0,
+                "end_offset": 72
+            }
+        ],
+        "chunk_start_idx": 503,
+        "chunk_end_idx": 578
+    },
+    {
+        "id": "email35",
+        "external_id": "email35.sentence_1-3",
+        "sentence_text": "From: Hunter Manning <MANN021@olgchs.org> Date: May 22, 2024 at 2:47:28\u202fPM EDT Subject: Our Lady of Good Counsel Catholic High School  There is a pressing need for student research assistants at  Our Lady of Good Counsel Catholic High School . The team will be accepting interns remotely (working from home) with a weekly pay of 400 as compensation for services. This position is available to students from any department of the institution, and tasks can be carried out remotely.",
+        "annotations": [
+            {
+                "label": "promise",
+                "text": "accepting interns remotely (working from home) with a weekly pay of 400",
+                "start_offset": 261,
+                "end_offset": 332
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 480
+    },
+    {
+        "id": "email35",
+        "external_id": "email35.sentence_4-5",
+        "sentence_text": "Slots are few, and consideration will be given on a first-come, first-served basis.  CLICK HERE TO APPLY  ",
+        "annotations": [],
+        "chunk_start_idx": 481,
+        "chunk_end_idx": 587
+    },
+    {
+        "id": "email36",
+        "external_id": "email36.sentence_1-3",
+        "sentence_text": "Subject: COMPULSORY SCREENING EXERCISE !!!! THIS  VERlFlCATl0N P0RTAL IS AlMED AT SCREENlNG ALL 0UR STUDENTS AND VALIDATING YOUR OLGCHS INFORMATION TO AVOID THE TERMINATION OF YOUR ACCOUNT. ALL UNVERlFlED ACCOUNTS WlLL BE TERMlNATED.  Y0U ARE EXPECTED T0 PR0VlDE A VALlD OLGCHS DETAILS 0UR IT AGENT WlLL REACH 0UT T0 Y0U VALlDATE THE lNF0RMATl0N PR0VlDED BY Y0U WlTHlN 24HRS   CLICK HERE TO COMPLETE YOUR VERIFICATION  ",
+        "annotations": [
+            {
+                "label": "pii_request",
+                "text": "Y0U ARE EXPECTED T0 PR0VlDE A VALlD OLGCHS DETAILS",
+                "start_offset": 235,
+                "end_offset": 285
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 419
+    },
+    {
+        "id": "email37",
+        "external_id": "email37.sentence_1-1",
+        "sentence_text": "From: Streaming Update <abhangigkeitserfahrungenmenschen@thinkmentorspeak.intellectpeakish.com> Date: June 1, 2024 at 12:17:42\u202fPM EDT To: strong_in_god@yahoo.com Subject: Your membership may have expired Reply-To: abhangigkeitserfahrungenmenschen@thinkmentorspeak.intellectpeakish.com Click here to extend for 90 days for free     ",
+        "annotations": [
+            {
+                "label": "promise",
+                "text": "extend for 90 days for free",
+                "start_offset": 299,
+                "end_offset": 326
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 331
+    },
+    {
+        "id": "email38",
+        "external_id": "email38.sentence_1-3",
+        "sentence_text": "From: PaymentDeclined <reply@enhageable.com> Date: June 5, 2024 at 6:13:41\u202fPM EDT To: strong_in_god@yahoo.com Subject: strong_in_god, Your Prime account will be removed today. Wed,05 Jun-2024  \u2713prime   Dear, strong_in_god   Your membership has expired   Your Subscription for Prime expired on Wed, 05 Jun 2024 18:13:40 -0400   We tried to renew your subscription at the end of each billing cycle, but your monthly payment has failed. We therefore had to cancel your subscription.",
+        "annotations": [],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 479
+    },
+    {
+        "id": "email38",
+        "external_id": "email38.sentence_4-6",
+        "sentence_text": "Obviously, we would love to see you again. If you wish to renew your subscription click on the link below.     UPDATE MY PAYMENT DETAILS    Subscription ID : F3892578-US Product: : Prime User Mail : strong_in_god@yahoo.com Expiration date: Wed, 05 Jun 2024 18:13:40 -0400    Confirm *Available ONLY TODAY*                           To stop these please go here or write to: 616 Corporate Way Ste.2-9092 Valley Cottage, NY 10989   ",
+        "annotations": [
+            {
+                "label": "pii_request",
+                "text": "UPDATE MY PAYMENT DETAILS",
+                "start_offset": 111,
+                "end_offset": 136
+            }
+        ],
+        "chunk_start_idx": 480,
+        "chunk_end_idx": 910
+    },
+    {
+        "id": "email39",
+        "external_id": "email39.sentence_1-3",
+        "sentence_text": "Subject: REMOTE INTERN Dear Undergraduate and Graduate Students,  The Department of Research and Development at NC State University is pleased to announce a remote internship opportunity available through the office of the Interim Provost and Executive Vice Chancellor for all interested and qualified students. We encourage you to apply and gain valuable experience in your desired field.  Position: Remote Intern Department: All Departments  Qualifications: - Currently enrolled as an undergraduate or graduate student at NC State University.",
+        "annotations": [
+            {
+                "label": "promise",
+                "text": "The Department of Research and Development at NC State University is pleased to announce a remote internship opportunity available",
+                "start_offset": 66,
+                "end_offset": 196
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 544
+    },
+    {
+        "id": "email39",
+        "external_id": "email39.sentence_4-6",
+        "sentence_text": "- Must have access to a computer and a stable internet connection.  Responsibilities: - Provide support to the faculty and staff of various departments in research tasks. - Conduct experiments and literature reviews under their guidance.",
+        "annotations": [],
+        "chunk_start_idx": 545,
+        "chunk_end_idx": 782
+    },
+    {
+        "id": "email39",
+        "external_id": "email39.sentence_7-9",
+        "sentence_text": "- Maintain regular communication through online platforms and actively participate in virtual meetings.  Compensation:  Selected interns will be eligible for a weekly stipend of $350 to acknowledge their dedication and commitment. The stipend will be disbursed at the end of each week.",
+        "annotations": [
+            {
+                "label": "promise",
+                "text": "Selected interns will be eligible for a weekly stipend of $350",
+                "start_offset": 120,
+                "end_offset": 182
+            }
+        ],
+        "chunk_start_idx": 783,
+        "chunk_end_idx": 1068
+    },
+    {
+        "id": "email39",
+        "external_id": "email39.sentence_10-12",
+        "sentence_text": "Upon selection, applicants will receive a notification email and must attend an online orientation session before commencing their work. We welcome applications from students of all fields, nationalities, and citizenship statuses.  How to Apply:  To apply, kindly send an email to Warwick A.",
+        "annotations": [
+            {
+                "label": "pii_request",
+                "text": "How to Apply:  To apply, kindly send an email to Warwick A. Arden at arden.a.warwick@gmail.com including the following details: your full name, year of study, department, and an alternate email address",
+                "start_offset": 232,
+                "end_offset": 290
+            }
+        ],
+        "chunk_start_idx": 1069,
+        "chunk_end_idx": 1360
+    },
+    {
+        "id": "email39",
+        "external_id": "email39.sentence_13-15",
+        "sentence_text": "Arden at arden.a.warwick@gmail.com including the following details: your full name, year of study, department, and an alternate email address. Please ensure that the subject line of your email states 'NC State University Intern Application'.  Applications will be considered on a first-come, first-served basis as slots are limited.",
+        "annotations": [],
+        "chunk_start_idx": 1361,
+        "chunk_end_idx": 1693
+    },
+    {
+        "id": "email39",
+        "external_id": "email39.sentence_16-18",
+        "sentence_text": "We look forward to your applications.  Sincerely, The Remote Internship Team. NC State University.",
+        "annotations": [],
+        "chunk_start_idx": 1694,
+        "chunk_end_idx": 1792
+    },
+    {
+        "id": "email40",
+        "external_id": "email40.sentence_1-3",
+        "sentence_text": "From: Mr.George Emeka Emerah <accdeptfedminofagricnigeria@gmail.com> Date: Fri, May 10, 2024 at 5:50\u202fAM Subject: Ministry of Agriculture .M.18 To:   Dear Friend   My apology for sending this unsolicited mail to you; I actually got your e-mail contact through my online exploration for proficient business persons and l decided to contact you directly about this business venture. I was assigned by my colleague to seek for a foreign partner who will assist us in providing a convenient foreign account in any designated bank abroad for the transfer of us$75,500,000.00 pending on our arrival in your country for utilization and disbursement with the owner of the account.  This amount results from a deliberate inflation of the label of a contract awarded by our ministry, the Federal Ministry of Agriculture (F.M.A)to an expatriate company.the contract has been executed and payment made to the original contractor, remaining the over-invoiced amount of us$75,500,000.00 million, which we want to transfer the funds out the country in our favour for disbursement among ourselves.",
+        "annotations": [],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 1080
+    },
+    {
+        "id": "email40",
+        "external_id": "email40.sentence_4-6",
+        "sentence_text": "The transfer of this money can only be possible with the help of a foreigner who will be presented as the beneficiary of the fund.  As government officials, we are not allowed to operate foreign accounts, and this is the reason why we decided to contact you. We have agreed that if you/your company can act as the beneficiary of this fund (us$75,500,000.00 million)20% of the total sum will be for you for providing the account while 80% will be reserved for us.",
+        "annotations": [],
+        "chunk_start_idx": 1081,
+        "chunk_end_idx": 1543
+    },
+    {
+        "id": "email40",
+        "external_id": "email40.sentence_7-9",
+        "sentence_text": " We hereby solicit for your assistance in providing a convenient account number in a designated bank abroad where this fund would be transferred. We intend coming over there on the completion of this transfer to secure our own share of the money.  Please note that we have been careful and have made all arrangements towards the success and smooth transfer of the fund to your account before you.",
+        "annotations": [],
+        "chunk_start_idx": 1544,
+        "chunk_end_idx": 1940
+    },
+    {
+        "id": "email40",
+        "external_id": "email40.sentence_10-12",
+        "sentence_text": "For security reasons and confidentiality of this transaction, we demand that you should not expose this proposal and the entire transaction to anybody.  We are putting so much trust in you with the hope that you would not betray us or sit on this money when it is finally transferred into your account. Be rest assured that this transaction is 100% risk free.",
+        "annotations": [],
+        "chunk_start_idx": 1941,
+        "chunk_end_idx": 2300
+    },
+    {
+        "id": "email40",
+        "external_id": "email40.sentence_13-15",
+        "sentence_text": "If this proposal is acceptable to you,indicate your interest by sending a email to us including your bank name & address, account number,telephone number.  Note that the particular nature of your company's business is irrelevant to this transaction. if this transaction interests you, your urgent response will be appreciated.",
+        "annotations": [
+            {
+                "label": "pii_request",
+                "text": "bank name & address, account number,telephone number",
+                "start_offset": 101,
+                "end_offset": 153
+            }
+        ],
+        "chunk_start_idx": 2301,
+        "chunk_end_idx": 2627
+    },
+    {
+        "id": "email40",
+        "external_id": "email40.sentence_16-17",
+        "sentence_text": " Yours faithfully,    Mr.George Emeka Emerah Director, Finance Mini of Agriculture. Email:mrgeorgeemerah2@gmail.com My Cellphone:+ 234-911-815-7020 Whattsapp:+ 234-911-815-7020 ",
+        "annotations": [],
+        "chunk_start_idx": 2628,
+        "chunk_end_idx": 2805
+    },
+    {
+        "id": "email41",
+        "external_id": "email41.sentence_1-2",
+        "sentence_text": "Subject: You have Reward to Redeem Reply-To: noreplyGoods7iphcbrp00dg3yfqfd3bgx0r2o3yr06@lakemac.org  Surprise in your inbox : Your Le Creuset Reward -Expiring Soon-   [link: https://ci3.googleusercontent.com/meips/ADKq_NaqTbL0hi7j86_gWSevISHBzwM34DYzLApk9eOfrs31VWajiS2XudYT_AfJjDPLD8ibmFqo=s0-d-e1-ft#https://i.imgur.com/8Mriftp.png] \ud835\udc02\ud835\udc0e\ud835\udc0d\ud835\udc06\ud835\udc11\ud835\udc00\ud835\udc13\ud835\udc14\ud835\udc0b\ud835\udc00\ud835\udc13\ud835\udc08\ud835\udc0e\ud835\udc0d\ud835\udc12 \ud835\uddb8\ud835\uddc8\ud835\uddce \ud835\uddc1\ud835\uddba\ud835\uddcf\ud835\uddbe \ud835\uddd0\ud835\uddc8\ud835\uddc7 \ud835\uddba\ud835\uddc7 \ud835\udc0b\ud835\udc1e \ud835\udc02\ud835\udc2b\ud835\udc1e\ud835\udc2e\ud835\udc2c\ud835\udc1e\ud835\udc2d \ud835\udc06\ud835\udc04\ud835\udc13 \ud835\udc12\ud835\udc13\ud835\udc00\ud835\udc11\ud835\udc13\ud835\udc04\ud835\udc03 \ud835\udc0d\ud835\udc0e\ud835\udc16 CONGRATULATIONS You have won an Le Creuset [link: https://ppt.cc/fZ22Vx?ajjiie1iixzl98688myziw]  \ud835\uddd6\ud835\uddfc\ud835\uddfb\ud835\uddf4\ud835\uddff\ud835\uddee\ud835\ude01\ud835\ude02\ud835\uddf9\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\ude00! \ud835\uddb8\ud835\uddc8\ud835\uddce \ud835\uddc1\ud835\uddba\ud835\uddcf\ud835\uddbe \ud835\uddbb\ud835\uddbe\ud835\uddbe\ud835\uddc7 \ud835\uddbc\ud835\uddc1\ud835\uddc8\ud835\uddcc\ud835\uddbe\ud835\uddc7 \ud835\uddcd\ud835\uddc8 \ud835\uddc9\ud835\uddba\ud835\uddcb\ud835\uddcd\ud835\uddc2\ud835\uddbc\ud835\uddc2\ud835\uddc9\ud835\uddba\ud835\uddcd\ud835\uddbe \ud835\uddc2\ud835\uddc7 \ud835\uddc8\ud835\uddce\ud835\uddcb \ud835\uddab\ud835\uddc8\ud835\uddd2\ud835\uddba\ud835\uddc5\ud835\uddcd\ud835\uddd2 \ud835\uddaf\ud835\uddcb\ud835\uddc8\ud835\uddc0\ud835\uddcb\ud835\uddba\ud835\uddc6 \ud835\uddbf\ud835\uddc8\ud835\uddcb \ud835\uddd9\ud835\udde5\ud835\uddd8\ud835\uddd8! \ud835\udda8\ud835\uddcd \ud835\uddd0\ud835\uddc2\ud835\uddc5\ud835\uddc5 \ud835\uddcd\ud835\uddba\ud835\uddc4\ud835\uddbe \ud835\uddd2\ud835\uddc8\ud835\uddce \ud835\uddc8\ud835\uddc7\ud835\uddc5\ud835\uddd2 \ud835\uddba \ud835\uddc6\ud835\uddc2\ud835\uddc7\ud835\uddce\ud835\uddcd\ud835\uddbe \ud835\uddcd\ud835\uddc8 \ud835\uddcb\ud835\uddbe\ud835\uddbc\ud835\uddbe\ud835\uddc2\ud835\uddcf\ud835\uddbe \ud835\uddcd\ud835\uddc1\ud835\uddc2\ud835\uddcc \ud835\uddbf\ud835\uddba\ud835\uddc7\ud835\uddcd\ud835\uddba\ud835\uddcc\ud835\uddcd\ud835\uddc2\ud835\uddbc \ud835\uddc9\ud835\uddcb\ud835\uddc2\ud835\uddd3\ud835\uddbe.      If you no longer wish to receive these emails, you may unsubscribe by clicking here [link: https://ppt.cc/fpv8Ex?76mk00r1fj183d3r1uoa7n] or by writing to  143 Exchange Blvd Ste 300, Hutto, TX, 78634   ",
+        "annotations": [
+            {
+                "label": "promise",
+                "text": "CONGRATULATIONS You have won an Le Creuset",
+                "start_offset": 574,
+                "end_offset": 616
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 848
+    },
+    {
+        "id": "email42",
+        "external_id": "email42.sentence_1-3",
+        "sentence_text": "Subject: Urgent-- Contact Information Update Good afternoon Ms. Coursey,   My label is Ryan Hufham; I am an Intern for Shane Robinson at Robinson & Associates.  I recently tried to call and left a voicemail, but wanted to reach out over email as well to see if we can update your contact information.  The address on file for your account (425 N Boylan Ave Raleigh, NC 27603, Apt 611) received a letter from Lincoln Investment that was never returned.",
+        "annotations": [],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 451
+    },
+    {
+        "id": "email42",
+        "external_id": "email42.sentence_4-5",
+        "sentence_text": " If you have a new address now, please respond at your earliest convenience so your profile can be updated.  Thank you!  Ryan T Hufham, Intern rhufham@lincolninvestment.com 252-756-1728 Robinson & Associates 1350 E Arlington Blvd, Suite A",
+        "annotations": [
+            {
+                "label": "pii_request",
+                "text": "If you have a new address now, please respond at your earliest convenience so your profile can be updated.",
+                "start_offset": 1,
+                "end_offset": 107
+            }
+        ],
+        "chunk_start_idx": 452,
+        "chunk_end_idx": 690
+    },
+    {
+        "id": "email43",
+        "external_id": "email43.sentence_1-3",
+        "sentence_text": "Hello!I am a representative of the ChaosCC hacker group.In the period from 03/06/2019 to 25/08/2019 we got access to your account - - ----------=--=co==m by hacking one of the ,You already changed the password?Sumptuously! But my program fixes this every time. And every time I know your new password!Using access to your account, it turned out to be easy to infect the OS of your device.At the moment, all your contacts are known to us. We also have access to your messengers and to your correspondence.All this information is already stored with us.We are also aware of your intimate adventures on the Internet.We know that you adore adult sites and we know about your sexual addictions.You have a very interesting and special taste (you understand what I mean).While browsing these sites, your device's camera automatically turns on.Video-record you and what you watch is being save.After that, the video clip is automatically saved on our server.At the moment, several analogy video records have been collected.From the moment you read this letter, after 6 0 hours,all your contacts on this email box and in your instant messengers will receive these clips and files with your correspondence.If you do not want this, transfer 700$ to our Bitcoin cryptocurrency wallet: 1KE1EqyKLPzLWQ3BhRz2glMHh5nws2TRkI guarantee that we will then destroy all your secrets!As soon as the money is in our account - your data will be immediately destroyed!If no money arrives, files with video and correspondence will be sent to all your contacts.You decide ...",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "From the moment you read this letter, after 6 0 hours, all your contacts on this email box and in your instant messengers will receive these clips and files with your correspondence.",
+                "start_offset": 1442,
+                "end_offset": 1533
+            },
+            {
+                "label": "threat",
+                "text": "Using access to your account, it turned out to be easy to infect the OS of your device.",
+                "start_offset": 301,
+                "end_offset": 388
+            },
+            {
+                "label": "threat",
+                "text": "If no money arrives, files with video and correspondence will be sent to all your contacts.",
+                "start_offset": 1196,
+                "end_offset": 1306
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 1547
+    },
+    {
+        "id": "email43",
+        "external_id": "email43.sentence_4-4",
+        "sentence_text": "Pay or live in hell out of shame ...We believe that this whole story will teach you how to use gadgets properly!Everyone loves adult sites, you're just out of luck.For the future - just cover a sticker your device's camera when you visit adult sites!Take care of yourself!",
+        "annotations": [],
+        "chunk_start_idx": 1548,
+        "chunk_end_idx": 1820
+    },
+    {
+        "id": "email44",
+        "external_id": "email44.sentence_1-3",
+        "sentence_text": "Good day Do not mind on my illiteracy, I am from India.This is your last chance to save your life.I uploaded the malicious program on your system.Since that moment I pilfered all privy background from your system. Additionally I have some morecompromising evidence. The most interesting evidence that I stole- its a videotape with yourmasturbation.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "This is your last chance to save your life.I uploaded the malicious program on your system.",
+                "start_offset": 54,
+                "end_offset": 145
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 348
+    },
+    {
+        "id": "email44",
+        "external_id": "email44.sentence_4-6",
+        "sentence_text": "I adjusted virus on a porn web site and after you loaded it. When you decided with thevideo and tapped on a play button, my deleterious soft at once set up on your system. After adjusting,your camera shoot the videotape with you self-abusing, in addition it saved precisely the porn videoyou masturbated on.",
+        "annotations": [],
+        "chunk_start_idx": 349,
+        "chunk_end_idx": 656
+    },
+    {
+        "id": "email44",
+        "external_id": "email44.sentence_7-8",
+        "sentence_text": "In next few days my malware collected all your social and work contacts.If you want to delete the records- pay me 888 euro in BTC(cryptocurrency).I provide you my Btc number - 1DGQJBflbllVBaKLhRzQWCFUXwKtoXgV21You have 24 hours after reading. When I get transfer I will destroy the videotape evermore.If you need SOh just Open the calculator on your desktop and press +++Other way I will send the tape to all your colleagues and friends.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "You have 24 hours after reading.",
+                "start_offset": 209,
+                "end_offset": 241
+            }
+        ],
+        "chunk_start_idx": 657,
+        "chunk_end_idx": 1094
+    },
+    {
+        "id": "email45",
+        "external_id": "email45.sentence_1-3",
+        "sentence_text": "You don't know me and you're thinking why you received this email, right?Well I actually placed malware on the porn website, and guess what, you visited this website to have fun (you know what I mean). While you were watching the video, your web browser acted as an RDP (remote desktop) and a keylogger which provided me access to your display screen and webcam. Right after that, my software gathered all your contacts from your Messenger, Facebook account, and email account.What exactly did I do?I made a split-screen video.",
+        "annotations": [],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 527
+    },
+    {
+        "id": "email45",
+        "external_id": "email45.sentence_4-6",
+        "sentence_text": "The first part recorded the video you were viewing (you've got a fine taste haha), and the next part recorded your webcam (Yep! It's you doing nasty things!).What should you do?Well, I believe, $1400 is a fair price for our little secret. You'll make the payment via Bitcoin to the below address (if you don't know this, search \"how to buy bitcoin\" in Google).BTC Address: 1Dud8Wb72JBTbAcTrxSJCZZuf4tsTBV72(It is cAsE sensitive, so copy and paste it)Important: You have 24 hours in order to make the payment. (I have a unique pixel within this email message, and right now I know that you have read this email).",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "Well, I believe, $1400 is a fair price for our little secret. You'll make the payment via Bitcoin to the below address (if you don't know this, search \"how to buy bitcoin\" in Google)",
+                "start_offset": 177,
+                "end_offset": 359
+            }
+        ],
+        "chunk_start_idx": 528,
+        "chunk_end_idx": 1139
+    },
+    {
+        "id": "email45",
+        "external_id": "email45.sentence_7-9",
+        "sentence_text": "If I don't get the payment, I will send your video to all of your contacts including relatives, coworkers, and so forth. Nonetheless, if I do get paid, I will erase the video immediately. If you want evidence, reply with /\"Yes!/\" and I will send your video recording to your 5 friends.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "If I don't get the payment, I will send your video to all of your contacts including relatives, coworkers, and so forth.",
+                "start_offset": 0,
+                "end_offset": 120
+            }
+        ],
+        "chunk_start_idx": 1140,
+        "chunk_end_idx": 1425
+    },
+    {
+        "id": "email45",
+        "external_id": "email45.sentence_10-11",
+        "sentence_text": "This is a nonnegotiable offer, so don't waste my time and yours by replying to this email. ",
+        "annotations": [],
+        "chunk_start_idx": 1426,
+        "chunk_end_idx": 1517
+    },
+    {
+        "id": "email46",
+        "external_id": "email46.sentence_1-3",
+        "sentence_text": "U wank off as if you are a machine gun) I wish there were your sport at the Olympic Games) I'm assured you would reach the top spot) I have been tracking you for a long time, you never cease to surprise me by your fondness for intimate satisfaction. I am astonished by the fact that you're an adult but you do such disgusting things which are not in the nature of adults. I'm confident u have superpowers, an ordinary person is not going to withstand such exertion) Having gained access to ur device I shot a clip with your home hobby.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "Having gained access to ur device I shot a clip with your home hobby. And now I am going to publish it on the Internet and send it to the contacts from ur electronic-mail",
+                "start_offset": 466,
+                "end_offset": 534
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 535
+    },
+    {
+        "id": "email46",
+        "external_id": "email46.sentence_4-6",
+        "sentence_text": "And now I am going to publish it on the Internet and send it to the contacts from ur electronic-mail. When you do something like this, I advise you to hide ur camera. Alternatively the case like urs might arise.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "Alternatively the case like urs might arise. I grant you forty-four hours to satisfy my requirements, in case u neglect me, within 88 h I will distribute your blackmail material",
+                "start_offset": 167,
+                "end_offset": 210
+            }
+        ],
+        "chunk_start_idx": 536,
+        "chunk_end_idx": 747
+    },
+    {
+        "id": "email46",
+        "external_id": "email46.sentence_7-8",
+        "sentence_text": "I grant you forty-four hours to satisfy my requirements, in case u neglect me, within 88 h I will distribute your blackmail material. ",
+        "annotations": [],
+        "chunk_start_idx": 748,
+        "chunk_end_idx": 882
+    },
+    {
+        "id": "email47",
+        "external_id": "email47.sentence_1-3",
+        "sentence_text": "Hi, my prey.This is my last warning.I write you since I attached a trojan on the web site with porno which you have viewed.My trojan captured all your private data.Then switched on your camera which recorded the act of your solitary sex.Just after that the trojan saved your contact list.I will erase the compromising video records and info if you transfer $900 United States Dollars in BitcoinI give you 36 hours after you open my message for making the payment. As soon as you read the message I'll see it right away. It is not necessary to tell me that you have sent money to me.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "Hi, my prey.",
+                "start_offset": 0,
+                "end_offset": 12
+            },
+            {
+                "label": "threat",
+                "text": "This is my last warning.",
+                "start_offset": 12,
+                "end_offset": 36
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 582
+    },
+    {
+        "id": "email47",
+        "external_id": "email47.sentence_4-6",
+        "sentence_text": "This address is connected to you, My system will erased automatically after transfer confirmation.If you don't pay, I'll send dirt to all your contacts. Let me remind you - I see what you're doing. If you try to deceive me, I'll know it immediately.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "If you don't pay, I'll send dirt to all your contacts",
+                "start_offset": 98,
+                "end_offset": 151
+            }
+        ],
+        "chunk_start_idx": 583,
+        "chunk_end_idx": 832
+    },
+    {
+        "id": "email47",
+        "external_id": "email47.sentence_7-9",
+        "sentence_text": "I don't live in your country. Bye.Don't forget about the shame and to ignore, your life can be ruined. ",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "Don't forget about the shame and to ignore, your life can be ruined. ",
+                "start_offset": 34,
+                "end_offset": 102
+            }
+        ],
+        "chunk_start_idx": 833,
+        "chunk_end_idx": 936
+    },
+    {
+        "id": "email48",
+        "external_id": "email48.sentence_1-3",
+        "sentence_text": "You must have believed that u could keep ur dirty passion a secret. You must do something with your fondness, guy. Now, for me you're number one on the list of vile individuals due to ur love for jerking.",
+        "annotations": [],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 204
+    },
+    {
+        "id": "email48",
+        "external_id": "email48.sentence_4-6",
+        "sentence_text": "U'd better take care of ur security on the net, and not surfing through the sites with dirty stuff. Anybody may gain access to ur web camera and contact list from e-mail just having specific skills, for example, me. Now, u've got only 1 opportunity to save urself Bitcoin 1KU6ql7jHjwZxVhaKn4jpgh4Q5EqEwJeg2, 1143 USD implement it within forty four h.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "Now, u've got only 1 opportunity to save urself Bitcoin 1KU6ql7jHjwZxVh",
+                "start_offset": 216,
+                "end_offset": 287
+            }
+        ],
+        "chunk_start_idx": 205,
+        "chunk_end_idx": 555
+    },
+    {
+        "id": "email48",
+        "external_id": "email48.sentence_7-9",
+        "sentence_text": "I am gonna disclose ur dirt, and in ur circle there won't be a single person who will give you a hand, it will happen within three days, if I don't see the desired. The timer started, do not piss me off, believe me. I have nothing to add, therefore I am not gonna negotiate anything and won't respond if u attempt to get in touch with me.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "I am gonna disclose ur dirt, and in ur circle there won't be a single person who will give you a hand, it will happen within three days, if I don't see the desired",
+                "start_offset": 0,
+                "end_offset": 163
+            },
+            {
+                "label": "threat",
+                "text": "The timer started, do not piss me off, believe me.",
+                "start_offset": 165,
+                "end_offset": 215
+            }
+        ],
+        "chunk_start_idx": 556,
+        "chunk_end_idx": 894
+    },
+    {
+        "id": "email48",
+        "external_id": "email48.sentence_10-10",
+        "sentence_text": "",
+        "annotations": [],
+        "chunk_start_idx": 895,
+        "chunk_end_idx": 895
+    },
+    {
+        "id": "email49",
+        "external_id": "email49.sentence_1-3",
+        "sentence_text": "In case you didn't get the last email. Pay attention now.You have used Zoom recently. And I have very unfortunate news for you.I'll give you some background on what happenedThere was a zero day security vulnerability on Zoom app, that allowed me a lull time access lo your camera and some other metadata on your account.Basically, you were hacked.And as you can imagine in your worst dreams, I have made a footage with you as a main actor.Where you work on yourself (perform sex act to be dear).",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "And I have very unfortunate news for you",
+                "start_offset": 86,
+                "end_offset": 126
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 495
+    },
+    {
+        "id": "email49",
+        "external_id": "email49.sentence_4-6",
+        "sentence_text": "Having fun is ok with me, but is not ok with your reputation.Please dont blame me or yourself for this. You couldn't know that the camera was working.I'm sure you don't want to be the next Jeffrey Toobin and gel embarrassed In front of all your friends, family and colleagues.You should get this very clear, I will send this video to all your contacts If I dont get paid.Are you wondering how I got your contacts and emails? Through the same exploit, zoom app allowed me to extract all sensitive info from your device.So here is what we will do.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "You should get this very clear, I will send this video to all your contacts If I dont get paid.",
+                "start_offset": 276,
+                "end_offset": 371
+            }
+        ],
+        "chunk_start_idx": 496,
+        "chunk_end_idx": 1041
+    },
+    {
+        "id": "email49",
+        "external_id": "email49.sentence_7-9",
+        "sentence_text": "You pay me $2000 in bitcoin, and nothing of this will happen. You have 2 days to make the payment.After I get the money, I will delete the footage and Information about you. The amount Is not negotiable.Send 0.11 Bitcoin (less than 2k USO at the current exchange rate) to my wallet 15AJ<uZPGMkdrpTGJwb87tnaqSyp91JSeeBHaving trouble with buying bitcoin?",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "You pay me $2000 in bitcoin, and nothing of this will happen. You have 2 days to make the payment.",
+                "start_offset": 0,
+                "end_offset": 98
+            }
+        ],
+        "chunk_start_idx": 1042,
+        "chunk_end_idx": 1394
+    },
+    {
+        "id": "email49",
+        "external_id": "email49.sentence_10-12",
+        "sentence_text": "Just google on how to buy it, it's very easy to use and anonymous.P.S. Don't try to report this to the police, I use TOR and bitcoin can't be traced. Do not email me back. If you do something stupid, I will distribute the video.Good luck.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "P.S. Don't try to report this to the police, I use TOR and bitcoin can't be traced. Do not email me back. If you do something stupid, I will distribute the video.",
+                "start_offset": 66,
+                "end_offset": 228
+            }
+        ],
+        "chunk_start_idx": 1395,
+        "chunk_end_idx": 1633
+    },
+    {
+        "id": "email49",
+        "external_id": "email49.sentence_13-13",
+        "sentence_text": "Don't stress",
+        "annotations": [],
+        "chunk_start_idx": 1634,
+        "chunk_end_idx": 1646
+    },
+    {
+        "id": "email50",
+        "external_id": "email50.sentence_1-3",
+        "sentence_text": "Subject: I have full control of your deviceHi,Did you notice that I sent you an email from your address? Yes, that means I have full control of your device. I am aware you watch adults contents with underage teens frequently.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "I have full control of your device",
+                "start_offset": 9,
+                "end_offset": 43
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 225
+    },
+    {
+        "id": "email50",
+        "external_id": "email50.sentence_4-6",
+        "sentence_text": "My spyware recorded a video of you masturbating. I also got access to your address book. I am happy to share these interesting videos with your address list and social media contacts.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "I am happy to share these interesting videos with your address list and social media contacts. To prevent this from happening, you need to send me 1000 (USD) in bitcoins",
+                "start_offset": 89,
+                "end_offset": 182
+            }
+        ],
+        "chunk_start_idx": 226,
+        "chunk_end_idx": 409
+    },
+    {
+        "id": "email50",
+        "external_id": "email50.sentence_7-9",
+        "sentence_text": "To prevent this from happening, you need to send me 1000 (USD) in bitcoinsBitcoin wallet part 1: 1C1FfgyNsJGJZfuR2ePXxTraaBitcoin wallet part 2: CqE6WLWSMCombine part 1 and 2 with no space between them to get the full bitcoin wallet.Quick tip! You can procure bitcoins from Paxful. Use Google to find it.Once I receive the compensation (Yes, consider it a compensation), I will immediately delete the videos, and you will never hear from me again. YOu have three days to send the amount.",
+        "annotations": [],
+        "chunk_start_idx": 410,
+        "chunk_end_idx": 897
+    },
+    {
+        "id": "email50",
+        "external_id": "email50.sentence_10-11",
+        "sentence_text": "I will receive a notification once this email is opened, and the countdown will begin. ",
+        "annotations": [],
+        "chunk_start_idx": 898,
+        "chunk_end_idx": 985
+    },
+    {
+        "id": "email51",
+        "external_id": "email51.sentence_1-1",
+        "sentence_text": "Password Expiration NoticeDear User: Your password is set to expire today\t- Tuesday, 6 September 2022We encourage you to re-confirm with same password to avoid login interruption",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "Your password is set to expire today",
+                "start_offset": 37,
+                "end_offset": 73
+            },
+            {
+                "label": "threat",
+                "text": "login interruption",
+                "start_offset": 160,
+                "end_offset": 177
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 178
+    },
+    {
+        "id": "email52",
+        "external_id": "email52.sentence_1-3",
+        "sentence_text": "Dear Staff/StudentThis email has been sent to notify you that you access to the Moodle will soon expire. You will have to login to your account to continue to have access to this service.You need to reactivate it through the following web address. A successful login will activate your account andyou will be redirected to your page.Activate Your Access IIf you are not able to login, please contact Alan Manuel at amanuel@umass.edu for immediate assistance.If you have any questions, please use our Help Desk to contact us! We're here to help.University of Massachusetts at Amherstn is a charitable body,with registration number SC014536.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "Moodle will soon expire",
+                "start_offset": 80,
+                "end_offset": 103
+            },
+            {
+                "label": "pii_request",
+                "text": "You will have to login to your account to continue to have access to this service",
+                "start_offset": 105,
+                "end_offset": 186
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 639
+    },
+    {
+        "id": "email53",
+        "external_id": "email53.sentence_1-3",
+        "sentence_text": "Pay attention. The virus I have planted in your computer recorded you watching pornography with the video feed from Zoom. Unless you pay me 1000 $ now, I will send this video to all your online contact.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "Pay attention. The virus I have planted in your computer recorded you",
+                "start_offset": 0,
+                "end_offset": 69
+            },
+            {
+                "label": "threat",
+                "text": "Unless you pay me 1000 $ now, I will send this video to all your online contact.",
+                "start_offset": 122,
+                "end_offset": 201
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 202
+    },
+    {
+        "id": "email54",
+        "external_id": "email54.sentence_1-3",
+        "sentence_text": "Subject: Your personal data has leaked due to suspected harmful activities. Hi there! I am a professional hacker and have successfully managed to hack your operating system. Currently I have gained full access to your account.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "Your personal data has leaked due to suspected harmful activities.",
+                "start_offset": 9,
+                "end_offset": 75
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 226
+    },
+    {
+        "id": "email54",
+        "external_id": "email54.sentence_4-6",
+        "sentence_text": "When I hacked into your account, your password was: badmash In addition, I was secretly monitoring all your activities and watching you for several months. The thing is your computer was infected with harmful spyware due to the fact that you had visited a website with porn content previously.Let me explain to you what that entails. Thanks to Trojan viruses, I can gain complete access to your computer or any other device that you own.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "The thing is your computer was infected with harmful spyware",
+                "start_offset": 156,
+                "end_offset": 216
+            }
+        ],
+        "chunk_start_idx": 227,
+        "chunk_end_idx": 664
+    },
+    {
+        "id": "email54",
+        "external_id": "email54.sentence_7-9",
+        "sentence_text": "It means that I can see absolutely everything in your screen and switch on the camera as well as microphone at any point of time without your perm1ss1on. In addition, I can also access and see your confidential information as well as your emails and chat messages. If you want to prevent further leakage of information, send me money to my Bitcoin.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "If you want to prevent further leakage of information, send me money to my Bitcoin.",
+                "start_offset": 265,
+                "end_offset": 347
+            }
+        ],
+        "chunk_start_idx": 665,
+        "chunk_end_idx": 1013
+    },
+    {
+        "id": "email55",
+        "external_id": "email55.sentence_1-3",
+        "sentence_text": "Are you ready to comply so I can unsend everything or I ruin your whole life finish and your career? Answer me fast so I can delete everything.Don't play with your life so be fast.Are you ready to comply?All I need right now is $500 and I'll unsend everything.Deal or no deal. ",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "Are you ready to comply so I can unsend everything or I ruin your whole life",
+                "start_offset": 0,
+                "end_offset": 76
+            },
+            {
+                "label": "threat",
+                "text": "All I need right now is $500 and I'll unsend everything.",
+                "start_offset": 204,
+                "end_offset": 260
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 277
+    },
+    {
+        "id": "email56",
+        "external_id": "email56.sentence_1-3",
+        "sentence_text": "Hello. I have some news that's definitely going to surprise you.08/06/2023- On this day, your personal and digital security has been breached by my actions, granting me unfettered access to your account. Be aware that I have been monitoring your every move with acute attention for some time.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "Be aware that I have been monitoring your every move with acute attention for some time.",
+                "start_offset": 204,
+                "end_offset": 291
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 292
+    },
+    {
+        "id": "email56",
+        "external_id": "email56.sentence_4-6",
+        "sentence_text": "I've commandeered your system with a virus, allowing me to control all your devices, especially the display and camera. Your data, now on my servers, includes everything from your browsing history to social media profiles.Have you ever thought about the potential of your digital data? I've come up with a groundbreaking idea: a split-screen video where you're seen enjoying masturbate on one side while surfing the internet on the other.",
+        "annotations": [],
+        "chunk_start_idx": 293,
+        "chunk_end_idx": 731
+    },
+    {
+        "id": "email56",
+        "external_id": "email56.sentence_7-9",
+        "sentence_text": "Its innovative content like this that's capturing everyone's attention!Man what happened really threw me for a loop.A single interaction from me, and I could propel this video into the virtual lives of your friends through emails, social networks, and instant messaging services. Access to your email and messaging platforms could be laid bare.My BIC wallet address-bc1qdquclgx52l2lz0sw8jczee9zn152pnur6wafkyIf you're having difficulties with adding funds to your Bitcoin wallet, I suggest using Google. It's really quite simple.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "A single interaction from me, and I could propel this video into the virtual lives of your friends through emails, social networks, and instant messaging services. Access to your email and messaging platforms could be laid bare.My BIC wallet address-bc1qdquclgx52l2lz0sw8jczee9zn152pnur6wafky",
+                "start_offset": 116,
+                "end_offset": 408
+            }
+        ],
+        "chunk_start_idx": 732,
+        "chunk_end_idx": 1261
+    },
+    {
+        "id": "email56",
+        "external_id": "email56.sentence_10-12",
+        "sentence_text": "Upon receiving the funds, I will immediately remove all unwanted material. Following that, we can proceed with our separate paths. I assure you that I am dedicated to deactivating and removing all malware from your devices.",
+        "annotations": [],
+        "chunk_start_idx": 1262,
+        "chunk_end_idx": 1485
+    },
+    {
+        "id": "email56",
+        "external_id": "email56.sentence_13-15",
+        "sentence_text": "You can trust me; I always uphold my promises. This is a fair agreement, especially considering the time and effort I've invested in tracking your profile and traffic.Please be advised that you have 48 hours from the time of opening this letter to make the payment.After this period, if I do not receive the specified amount from you, I will send everyone access to your accounts and visited sites, personal data, and edited videos without warning. Just so you know, I'm not one to make mistakes.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "Please be advised that you have 48 hours from the time of opening this letter to make the payment.After this period, if I do not receive the specified amount from you, I will send everyone access to your accounts and visited sites, personal data, and edited videos without warning.",
+                "start_offset": 167,
+                "end_offset": 448
+            }
+        ],
+        "chunk_start_idx": 1486,
+        "chunk_end_idx": 1982
+    },
+    {
+        "id": "email56",
+        "external_id": "email56.sentence_16-18",
+        "sentence_text": "I suggest you steer clear of joking with me because I've got a wide range of resources at my disposal. There's no use reporting me because they won't be able to locate me. Formatting the drive or destroying your device won't help because I already possess your data.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "I suggest you steer clear of joking with me because I've got a wide range of resources at my disposal.",
+                "start_offset": 0,
+                "end_offset": 102
+            }
+        ],
+        "chunk_start_idx": 1983,
+        "chunk_end_idx": 2249
+    },
+    {
+        "id": "email56",
+        "external_id": "email56.sentence_19-19",
+        "sentence_text": "Any attempts to respond will be in vain, as I don't employ a personal email and won't be able to read any replies.Best of luck, and don't take it too personally!P.S. As a word of advice for the future, always follow online safety protocols and refrain from visiting sketchy sites.",
+        "annotations": [],
+        "chunk_start_idx": 2250,
+        "chunk_end_idx": 2530
+    },
+    {
+        "id": "email57",
+        "external_id": "email57.sentence_1-3",
+        "sentence_text": "Dear User,This message is to inform you that your access to bCourses will soon expire. You will have to login to your account to continue to have access to this service.You need to reactivate it just by logging in through the following URL. A successful login will activate your account and you will be redirected to your bCourses page.http:/bcourses.berkeley.edu/login_0DZvfIrGID322o0ki22F0IZotK3lPfYHa62pNgFo4Oh4B40FO4WFMbL4BeL22BMCB8yNmkrd1qJSMjMmbphO9TsF3jX2LqgZijDXGuwEM8fb8yNE7xdTJSMBNYpD4cemhm/If you are not able to login, please contact Danielle Patel at dapatel@berkeley.edu(link sends e-mail) for immediate assistance.Sincerely,Danielle PatelBerkeley SecurityUniversity of California, Berkeley510-643-6957dapatel@berkeley.edu",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "your access to bCourses will soon expire",
+                "start_offset": 45,
+                "end_offset": 85
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 736
+    },
+    {
+        "id": "email58",
+        "external_id": "email58.sentence_1-3",
+        "sentence_text": "Security Notice! Dear XXXX,Our security system has detected some irregular activity connected to your account. you will be unable to send and recieve emails until this issue has been resolvedCLICK HERE TO VALIDATE NOWTo prevent further irregular activity we will restrict access to your account within 72 hours if you did not validate your account.*Note:* Mail Administrator will always keep you posted of securityupdates. Mail Adminberkeley.edu(link is external) 2021 Secured Service.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "we will restrict access to your account within 72 hours if you did not validate your account.",
+                "start_offset": 255,
+                "end_offset": 348
+            },
+            {
+                "label": "threat",
+                "text": "you will be unable to send and recieve emails until this issue has been resolved",
+                "start_offset": 111,
+                "end_offset": 191
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 485
+    }
+]

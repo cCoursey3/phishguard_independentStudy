@@ -1,0 +1,698 @@
+[
+    {
+        "id": "email7",
+        "external_id": "email7.sentence_1-3",
+        "sentence_text": "Hello pervert, I've sent this message from your iCloud mail.   I want to inform you about a very bad situation for you. However, you can benefit from it, if you will act wisely.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "I want to inform you about a very bad situation for you",
+                "start_offset": 63,
+                "end_offset": 118
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 177
+    },
+    {
+        "id": "email7",
+        "external_id": "email7.sentence_7-9",
+        "sentence_text": "It works well on Android, iOS, and Windows. I guess, you already figured out where I'm getting at.   It's been a few months since I installed it on all your devices because you were not quite choosy about what links to click on the internet.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "It works well on Android, iOS, and Windows. I guess, you already figured out where I'm getting at.",
+                "start_offset": 0,
+                "end_offset": 98
+            }
+        ],
+        "chunk_start_idx": 411,
+        "chunk_end_idx": 652
+    },
+    {
+        "id": "email7",
+        "external_id": "email7.sentence_10-12",
+        "sentence_text": "During this period, I've learned about all aspects of your private life, but oene is of special significance to me.   I've recorded many videos of you jerking off to highly controversial poern videos. Given that the questionable genre is almost always the same, I can conclude that you have sick perversion.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "I can conclude that you have sick perversion.   I doubt you'd want your friends, family and co-workers to know about it. However, I can do it in a few clicks.   Every number in your contact Iist will suddenly receive these videoes - on WhatsApp, on Telegram, on Instagram, on Facebook, on email - everywher",
+                "start_offset": 262,
+                "end_offset": 306
+            }
+        ],
+        "chunk_start_idx": 653,
+        "chunk_end_idx": 960
+    },
+    {
+        "id": "email7",
+        "external_id": "email7.sentence_16-18",
+        "sentence_text": "It is going to be a tsunami that will sweep away everything in its path, and first of all, your foermer life.   Don't think of yourself as an innocent victim. No one knows where your perversioen might lead in the future, so consider this a kind of deserved punishment to stop you.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "consider this a kind of deserved punishment to stop you",
+                "start_offset": 224,
+                "end_offset": 279
+            }
+        ],
+        "chunk_start_idx": 1224,
+        "chunk_end_idx": 1504
+    },
+    {
+        "id": "email7",
+        "external_id": "email7.sentence_28-30",
+        "sentence_text": "Just google crypto exchange or buy 'Litecoin' and then it will be no harder than buying some useless stuff on Amazon.   I strongly warn you against the following: * Do not reply to this email. I've sent it from your iCloud mail.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "I strongly warn you against the following: * Do not reply to this email. I've sent it from your iCloud mail. * Do not contact the police. I have access to all your devices, and as soon as I find out you ran to the cops, videos ",
+                "start_offset": 120,
+                "end_offset": 227
+            }
+        ],
+        "chunk_start_idx": 2253,
+        "chunk_end_idx": 2481
+    },
+    {
+        "id": "email8",
+        "external_id": "email8.sentence_1-3",
+        "sentence_text": "Subject: IMPORTANT STUDENT VERIFICATION !!! THIS VERlFlCATl0N P0RTAL IS AIMED AT SCREENING ALL 0UR STUDENTS AND VALIDATING YOUR OLGCHS INFORMATION TO AVOID THE TERMINATION OF YOUR ACCOUNT. ALL UNVERlFlED ACC0UNTS WILL BE TERMINATED. Y0U ARE EXPECTED T0 PR0VlDE A VALlD OLGCHS DETAILS 0UR lT AGENT WlLL REACH 0UT T0 Y0U VALlDATE THE lNF0RMATl0N PR0VlDED BY Y0U WlTHlN 24HRS CLICK HERE TO COMPLETE YOUR VERIFICATION",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "ALL UNVERlFlED ACC0UNTS WILL BE TERMINATED.",
+                "start_offset": 189,
+                "end_offset": 232
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 413
+    },
+    {
+        "id": "email9",
+        "external_id": "email9.sentence_1-2",
+        "sentence_text": "Your membership may have expired. But if you click here you can extend your membership for 90 days for free",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "Your membership may have expired.",
+                "start_offset": 0,
+                "end_offset": 33
+            },
+            {
+                "label": "promise",
+                "text": "extend your membership for 90 days for free",
+                "start_offset": 64,
+                "end_offset": 106
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 107
+    },
+    {
+        "id": "email10",
+        "external_id": "email10.sentence_1-1",
+        "sentence_text": "Subject: EXPIRATION OF YOUR MEMBERSHIP IS IMMINENT  Renewal Invoice #4567UHBHU76T [Attachment: Renewal Invoice #4567UHBHU76T.pdf]",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "EXPIRATION OF YOUR MEMBERSHIP IS IMMINENT",
+                "start_offset": 9,
+                "end_offset": 50
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 129
+    },
+    {
+        "id": "email11",
+        "external_id": "email11.sentence_1-2",
+        "sentence_text": "Subject: You have Reward to Redeem Surprise in your inbox : Your Le Creuset Reward -Expiring Soon-   [link: https://ci3.googleusercontent.com/meips/ADKq_NaqTbL0hi7j86_gWSevISHBzwM34DYzLApk9eOfrs31VWajiS2XudYT_AfJjDPLD8ibmFqo=s0-d-e1-ft#https://i.imgur.com/8Mriftp.png]           [link: https://ppt.cc/fZ22Vx?ajjiie1iixzl98688myziw]  !            !            .      If you no longer wish to receive these emails, you may unsubscribe by clicking here [link: https://ppt.cc/fpv8Ex?76mk00r1fj183d3r1uoa7n] or by writing to  143 Exchange Blvd Ste 300, Hutto, TX, 78634",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "-Expiring Soon-",
+                "start_offset": 83,
+                "end_offset": 98
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 564
+    },
+    {
+        "id": "email12",
+        "external_id": "email12.sentence_1-3",
+        "sentence_text": "Subject: strong_in_god, Your Prime account will be removed today. Wed,05 Jun-2024  prime   Dear, strong_in_god   Your membership has expired   Your Subscription for Prime expired on Wed, 05 Jun 2024 18:13:40 -0400   We tried to renew your subscription at the end of each billing cycle, but your monthly payment has failed. We therefore had to cancel your subscription.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "your Prime account will be removed today",
+                "start_offset": 24,
+                "end_offset": 64
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 368
+    },
+    {
+        "id": "email14",
+        "external_id": "email14.sentence_1-2",
+        "sentence_text": "Password System Reminder The Password for makenzie.layne@usap.com is set to expire Today, 9 of May 2024. Continue using same password by clicking the button below to avoid login interruption",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "The Password for makenzie.layne@usap.com is set to expire Today",
+                "start_offset": 25,
+                "end_offset": 88
+            },
+            {
+                "label": "threat",
+                "text": "avoid login interruption",
+                "start_offset": 163,
+                "end_offset": 189
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 190
+    },
+    {
+        "id": "email43",
+        "external_id": "email43.sentence_1-3",
+        "sentence_text": "Hello!I am a representative of the ChaosCC hacker group.In the period from 03/06/2019 to 25/08/2019 we got access to your account - - ----------=--=co==m by hacking one of the ,You already changed the password?Sumptuously! But my program fixes this every time. And every time I know your new password!Using access to your account, it turned out to be easy to infect the OS of your device.At the moment, all your contacts are known to us. We also have access to your messengers and to your correspondence.All this information is already stored with us.We are also aware of your intimate adventures on the Internet.We know that you adore adult sites and we know about your sexual addictions.You have a very interesting and special taste (you understand what I mean).While browsing these sites, your device's camera automatically turns on.Video-record you and what you watch is being save.After that, the video clip is automatically saved on our server.At the moment, several analogy video records have been collected.From the moment you read this letter, after 6 0 hours,all your contacts on this email box and in your instant messengers will receive these clips and files with your correspondence.If you do not want this, transfer 700$ to our Bitcoin cryptocurrency wallet: 1KE1EqyKLPzLWQ3BhRz2glMHh5nws2TRkI guarantee that we will then destroy all your secrets!As soon as the money is in our account - your data will be immediately destroyed!If no money arrives, files with video and correspondence will be sent to all your contacts.You decide ...",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "From the moment you read this letter, after 6 0 hours, all your contacts on this email box and in your instant messengers will receive these clips and files with your correspondence.",
+                "start_offset": 1442,
+                "end_offset": 1533
+            },
+            {
+                "label": "threat",
+                "text": "Using access to your account, it turned out to be easy to infect the OS of your device.",
+                "start_offset": 301,
+                "end_offset": 388
+            },
+            {
+                "label": "threat",
+                "text": "If no money arrives, files with video and correspondence will be sent to all your contacts.",
+                "start_offset": 1196,
+                "end_offset": 1306
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 1547
+    },
+    {
+        "id": "email44",
+        "external_id": "email44.sentence_1-3",
+        "sentence_text": "Good day Do not mind on my illiteracy, I am from India.This is your last chance to save your life.I uploaded the malicious program on your system.Since that moment I pilfered all privy background from your system. Additionally I have some morecompromising evidence. The most interesting evidence that I stole- its a videotape with yourmasturbation.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "This is your last chance to save your life.I uploaded the malicious program on your system.",
+                "start_offset": 54,
+                "end_offset": 145
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 348
+    },
+    {
+        "id": "email44",
+        "external_id": "email44.sentence_7-8",
+        "sentence_text": "In next few days my malware collected all your social and work contacts.If you want to delete the records- pay me 888 euro in BTC(cryptocurrency).I provide you my Btc number - 1DGQJBflbllVBaKLhRzQWCFUXwKtoXgV21You have 24 hours after reading. When I get transfer I will destroy the videotape evermore.If you need SOh just Open the calculator on your desktop and press +++Other way I will send the tape to all your colleagues and friends.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "You have 24 hours after reading.",
+                "start_offset": 209,
+                "end_offset": 241
+            }
+        ],
+        "chunk_start_idx": 657,
+        "chunk_end_idx": 1094
+    },
+    {
+        "id": "email45",
+        "external_id": "email45.sentence_4-6",
+        "sentence_text": "The first part recorded the video you were viewing (you've got a fine taste haha), and the next part recorded your webcam (Yep! It's you doing nasty things!).What should you do?Well, I believe, $1400 is a fair price for our little secret. You'll make the payment via Bitcoin to the below address (if you don't know this, search \"how to buy bitcoin\" in Google).BTC Address: 1Dud8Wb72JBTbAcTrxSJCZZuf4tsTBV72(It is cAsE sensitive, so copy and paste it)Important: You have 24 hours in order to make the payment. (I have a unique pixel within this email message, and right now I know that you have read this email).",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "Well, I believe, $1400 is a fair price for our little secret. You'll make the payment via Bitcoin to the below address (if you don't know this, search \"how to buy bitcoin\" in Google)",
+                "start_offset": 177,
+                "end_offset": 359
+            }
+        ],
+        "chunk_start_idx": 528,
+        "chunk_end_idx": 1139
+    },
+    {
+        "id": "email45",
+        "external_id": "email45.sentence_7-9",
+        "sentence_text": "If I don't get the payment, I will send your video to all of your contacts including relatives, coworkers, and so forth. Nonetheless, if I do get paid, I will erase the video immediately. If you want evidence, reply with /\"Yes!/\" and I will send your video recording to your 5 friends.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "If I don't get the payment, I will send your video to all of your contacts including relatives, coworkers, and so forth.",
+                "start_offset": 0,
+                "end_offset": 120
+            }
+        ],
+        "chunk_start_idx": 1140,
+        "chunk_end_idx": 1425
+    },
+    {
+        "id": "email46",
+        "external_id": "email46.sentence_1-3",
+        "sentence_text": "U wank off as if you are a machine gun) I wish there were your sport at the Olympic Games) I'm assured you would reach the top spot) I have been tracking you for a long time, you never cease to surprise me by your fondness for intimate satisfaction. I am astonished by the fact that you're an adult but you do such disgusting things which are not in the nature of adults. I'm confident u have superpowers, an ordinary person is not going to withstand such exertion) Having gained access to ur device I shot a clip with your home hobby.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "Having gained access to ur device I shot a clip with your home hobby. And now I am going to publish it on the Internet and send it to the contacts from ur electronic-mail",
+                "start_offset": 466,
+                "end_offset": 534
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 535
+    },
+    {
+        "id": "email46",
+        "external_id": "email46.sentence_4-6",
+        "sentence_text": "And now I am going to publish it on the Internet and send it to the contacts from ur electronic-mail. When you do something like this, I advise you to hide ur camera. Alternatively the case like urs might arise.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "Alternatively the case like urs might arise. I grant you forty-four hours to satisfy my requirements, in case u neglect me, within 88 h I will distribute your blackmail material",
+                "start_offset": 167,
+                "end_offset": 210
+            }
+        ],
+        "chunk_start_idx": 536,
+        "chunk_end_idx": 747
+    },
+    {
+        "id": "email47",
+        "external_id": "email47.sentence_1-3",
+        "sentence_text": "Hi, my prey.This is my last warning.I write you since I attached a trojan on the web site with porno which you have viewed.My trojan captured all your private data.Then switched on your camera which recorded the act of your solitary sex.Just after that the trojan saved your contact list.I will erase the compromising video records and info if you transfer $900 United States Dollars in BitcoinI give you 36 hours after you open my message for making the payment. As soon as you read the message I'll see it right away. It is not necessary to tell me that you have sent money to me.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "Hi, my prey.",
+                "start_offset": 0,
+                "end_offset": 12
+            },
+            {
+                "label": "threat",
+                "text": "This is my last warning.",
+                "start_offset": 12,
+                "end_offset": 36
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 582
+    },
+    {
+        "id": "email47",
+        "external_id": "email47.sentence_4-6",
+        "sentence_text": "This address is connected to you, My system will erased automatically after transfer confirmation.If you don't pay, I'll send dirt to all your contacts. Let me remind you - I see what you're doing. If you try to deceive me, I'll know it immediately.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "If you don't pay, I'll send dirt to all your contacts",
+                "start_offset": 98,
+                "end_offset": 151
+            }
+        ],
+        "chunk_start_idx": 583,
+        "chunk_end_idx": 832
+    },
+    {
+        "id": "email47",
+        "external_id": "email47.sentence_7-9",
+        "sentence_text": "I don't live in your country. Bye.Don't forget about the shame and to ignore, your life can be ruined. ",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "Don't forget about the shame and to ignore, your life can be ruined. ",
+                "start_offset": 34,
+                "end_offset": 102
+            }
+        ],
+        "chunk_start_idx": 833,
+        "chunk_end_idx": 936
+    },
+    {
+        "id": "email48",
+        "external_id": "email48.sentence_4-6",
+        "sentence_text": "U'd better take care of ur security on the net, and not surfing through the sites with dirty stuff. Anybody may gain access to ur web camera and contact list from e-mail just having specific skills, for example, me. Now, u've got only 1 opportunity to save urself Bitcoin 1KU6ql7jHjwZxVhaKn4jpgh4Q5EqEwJeg2, 1143 USD implement it within forty four h.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "Now, u've got only 1 opportunity to save urself Bitcoin 1KU6ql7jHjwZxVh",
+                "start_offset": 216,
+                "end_offset": 287
+            }
+        ],
+        "chunk_start_idx": 205,
+        "chunk_end_idx": 555
+    },
+    {
+        "id": "email48",
+        "external_id": "email48.sentence_7-9",
+        "sentence_text": "I am gonna disclose ur dirt, and in ur circle there won't be a single person who will give you a hand, it will happen within three days, if I don't see the desired. The timer started, do not piss me off, believe me. I have nothing to add, therefore I am not gonna negotiate anything and won't respond if u attempt to get in touch with me.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "I am gonna disclose ur dirt, and in ur circle there won't be a single person who will give you a hand, it will happen within three days, if I don't see the desired",
+                "start_offset": 0,
+                "end_offset": 163
+            },
+            {
+                "label": "threat",
+                "text": "The timer started, do not piss me off, believe me.",
+                "start_offset": 165,
+                "end_offset": 215
+            }
+        ],
+        "chunk_start_idx": 556,
+        "chunk_end_idx": 894
+    },
+    {
+        "id": "email49",
+        "external_id": "email49.sentence_1-3",
+        "sentence_text": "In case you didn't get the last email. Pay attention now.You have used Zoom recently. And I have very unfortunate news for you.I'll give you some background on what happenedThere was a zero day security vulnerability on Zoom app, that allowed me a lull time access lo your camera and some other metadata on your account.Basically, you were hacked.And as you can imagine in your worst dreams, I have made a footage with you as a main actor.Where you work on yourself (perform sex act to be dear).",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "And I have very unfortunate news for you",
+                "start_offset": 86,
+                "end_offset": 126
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 495
+    },
+    {
+        "id": "email49",
+        "external_id": "email49.sentence_4-6",
+        "sentence_text": "Having fun is ok with me, but is not ok with your reputation.Please dont blame me or yourself for this. You couldn't know that the camera was working.I'm sure you don't want to be the next Jeffrey Toobin and gel embarrassed In front of all your friends, family and colleagues.You should get this very clear, I will send this video to all your contacts If I dont get paid.Are you wondering how I got your contacts and emails? Through the same exploit, zoom app allowed me to extract all sensitive info from your device.So here is what we will do.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "You should get this very clear, I will send this video to all your contacts If I dont get paid.",
+                "start_offset": 276,
+                "end_offset": 371
+            }
+        ],
+        "chunk_start_idx": 496,
+        "chunk_end_idx": 1041
+    },
+    {
+        "id": "email49",
+        "external_id": "email49.sentence_7-9",
+        "sentence_text": "You pay me $2000 in bitcoin, and nothing of this will happen. You have 2 days to make the payment.After I get the money, I will delete the footage and Information about you. The amount Is not negotiable.Send 0.11 Bitcoin (less than 2k USO at the current exchange rate) to my wallet 15AJ<uZPGMkdrpTGJwb87tnaqSyp91JSeeBHaving trouble with buying bitcoin?",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "You pay me $2000 in bitcoin, and nothing of this will happen. You have 2 days to make the payment.",
+                "start_offset": 0,
+                "end_offset": 98
+            }
+        ],
+        "chunk_start_idx": 1042,
+        "chunk_end_idx": 1394
+    },
+    {
+        "id": "email49",
+        "external_id": "email49.sentence_10-12",
+        "sentence_text": "Just google on how to buy it, it's very easy to use and anonymous.P.S. Don't try to report this to the police, I use TOR and bitcoin can't be traced. Do not email me back. If you do something stupid, I will distribute the video.Good luck.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "P.S. Don't try to report this to the police, I use TOR and bitcoin can't be traced. Do not email me back. If you do something stupid, I will distribute the video.",
+                "start_offset": 66,
+                "end_offset": 228
+            }
+        ],
+        "chunk_start_idx": 1395,
+        "chunk_end_idx": 1633
+    },
+    {
+        "id": "email50",
+        "external_id": "email50.sentence_1-3",
+        "sentence_text": "Subject: I have full control of your deviceHi,Did you notice that I sent you an email from your address? Yes, that means I have full control of your device. I am aware you watch adults contents with underage teens frequently.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "I have full control of your device",
+                "start_offset": 9,
+                "end_offset": 43
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 225
+    },
+    {
+        "id": "email50",
+        "external_id": "email50.sentence_4-6",
+        "sentence_text": "My spyware recorded a video of you masturbating. I also got access to your address book. I am happy to share these interesting videos with your address list and social media contacts.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "I am happy to share these interesting videos with your address list and social media contacts. To prevent this from happening, you need to send me 1000 (USD) in bitcoins",
+                "start_offset": 89,
+                "end_offset": 182
+            }
+        ],
+        "chunk_start_idx": 226,
+        "chunk_end_idx": 409
+    },
+    {
+        "id": "email51",
+        "external_id": "email51.sentence_1-1",
+        "sentence_text": "Password Expiration NoticeDear User: Your password is set to expire today\t- Tuesday, 6 September 2022We encourage you to re-confirm with same password to avoid login interruption",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "Your password is set to expire today",
+                "start_offset": 37,
+                "end_offset": 73
+            },
+            {
+                "label": "threat",
+                "text": "login interruption",
+                "start_offset": 160,
+                "end_offset": 177
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 178
+    },
+    {
+        "id": "email52",
+        "external_id": "email52.sentence_1-3",
+        "sentence_text": "Dear Staff/StudentThis email has been sent to notify you that you access to the Moodle will soon expire. You will have to login to your account to continue to have access to this service.You need to reactivate it through the following web address. A successful login will activate your account andyou will be redirected to your page.Activate Your Access IIf you are not able to login, please contact Alan Manuel at amanuel@umass.edu for immediate assistance.If you have any questions, please use our Help Desk to contact us! We're here to help.University of Massachusetts at Amherstn is a charitable body,with registration number SC014536.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "Moodle will soon expire",
+                "start_offset": 80,
+                "end_offset": 103
+            },
+            {
+                "label": "pii_request",
+                "text": "You will have to login to your account to continue to have access to this service",
+                "start_offset": 105,
+                "end_offset": 186
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 639
+    },
+    {
+        "id": "email53",
+        "external_id": "email53.sentence_1-3",
+        "sentence_text": "Pay attention. The virus I have planted in your computer recorded you watching pornography with the video feed from Zoom. Unless you pay me 1000 $ now, I will send this video to all your online contact.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "Pay attention. The virus I have planted in your computer recorded you",
+                "start_offset": 0,
+                "end_offset": 69
+            },
+            {
+                "label": "threat",
+                "text": "Unless you pay me 1000 $ now, I will send this video to all your online contact.",
+                "start_offset": 122,
+                "end_offset": 201
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 202
+    },
+    {
+        "id": "email54",
+        "external_id": "email54.sentence_1-3",
+        "sentence_text": "Subject: Your personal data has leaked due to suspected harmful activities. Hi there! I am a professional hacker and have successfully managed to hack your operating system. Currently I have gained full access to your account.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "Your personal data has leaked due to suspected harmful activities.",
+                "start_offset": 9,
+                "end_offset": 75
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 226
+    },
+    {
+        "id": "email54",
+        "external_id": "email54.sentence_4-6",
+        "sentence_text": "When I hacked into your account, your password was: badmash In addition, I was secretly monitoring all your activities and watching you for several months. The thing is your computer was infected with harmful spyware due to the fact that you had visited a website with porn content previously.Let me explain to you what that entails. Thanks to Trojan viruses, I can gain complete access to your computer or any other device that you own.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "The thing is your computer was infected with harmful spyware",
+                "start_offset": 156,
+                "end_offset": 216
+            }
+        ],
+        "chunk_start_idx": 227,
+        "chunk_end_idx": 664
+    },
+    {
+        "id": "email54",
+        "external_id": "email54.sentence_7-9",
+        "sentence_text": "It means that I can see absolutely everything in your screen and switch on the camera as well as microphone at any point of time without your perm1ss1on. In addition, I can also access and see your confidential information as well as your emails and chat messages. If you want to prevent further leakage of information, send me money to my Bitcoin.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "If you want to prevent further leakage of information, send me money to my Bitcoin.",
+                "start_offset": 265,
+                "end_offset": 347
+            }
+        ],
+        "chunk_start_idx": 665,
+        "chunk_end_idx": 1013
+    },
+    {
+        "id": "email55",
+        "external_id": "email55.sentence_1-3",
+        "sentence_text": "Are you ready to comply so I can unsend everything or I ruin your whole life finish and your career? Answer me fast so I can delete everything.Don't play with your life so be fast.Are you ready to comply?All I need right now is $500 and I'll unsend everything.Deal or no deal. ",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "Are you ready to comply so I can unsend everything or I ruin your whole life",
+                "start_offset": 0,
+                "end_offset": 76
+            },
+            {
+                "label": "threat",
+                "text": "All I need right now is $500 and I'll unsend everything.",
+                "start_offset": 204,
+                "end_offset": 260
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 277
+    },
+    {
+        "id": "email56",
+        "external_id": "email56.sentence_1-3",
+        "sentence_text": "Hello. I have some news that's definitely going to surprise you.08/06/2023- On this day, your personal and digital security has been breached by my actions, granting me unfettered access to your account. Be aware that I have been monitoring your every move with acute attention for some time.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "Be aware that I have been monitoring your every move with acute attention for some time.",
+                "start_offset": 204,
+                "end_offset": 291
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 292
+    },
+    {
+        "id": "email56",
+        "external_id": "email56.sentence_7-9",
+        "sentence_text": "Its innovative content like this that's capturing everyone's attention!Man what happened really threw me for a loop.A single interaction from me, and I could propel this video into the virtual lives of your friends through emails, social networks, and instant messaging services. Access to your email and messaging platforms could be laid bare.My BIC wallet address-bc1qdquclgx52l2lz0sw8jczee9zn152pnur6wafkyIf you're having difficulties with adding funds to your Bitcoin wallet, I suggest using Google. It's really quite simple.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "A single interaction from me, and I could propel this video into the virtual lives of your friends through emails, social networks, and instant messaging services. Access to your email and messaging platforms could be laid bare.My BIC wallet address-bc1qdquclgx52l2lz0sw8jczee9zn152pnur6wafky",
+                "start_offset": 116,
+                "end_offset": 408
+            }
+        ],
+        "chunk_start_idx": 732,
+        "chunk_end_idx": 1261
+    },
+    {
+        "id": "email56",
+        "external_id": "email56.sentence_13-15",
+        "sentence_text": "You can trust me; I always uphold my promises. This is a fair agreement, especially considering the time and effort I've invested in tracking your profile and traffic.Please be advised that you have 48 hours from the time of opening this letter to make the payment.After this period, if I do not receive the specified amount from you, I will send everyone access to your accounts and visited sites, personal data, and edited videos without warning. Just so you know, I'm not one to make mistakes.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "Please be advised that you have 48 hours from the time of opening this letter to make the payment.After this period, if I do not receive the specified amount from you, I will send everyone access to your accounts and visited sites, personal data, and edited videos without warning.",
+                "start_offset": 167,
+                "end_offset": 448
+            }
+        ],
+        "chunk_start_idx": 1486,
+        "chunk_end_idx": 1982
+    },
+    {
+        "id": "email56",
+        "external_id": "email56.sentence_16-18",
+        "sentence_text": "I suggest you steer clear of joking with me because I've got a wide range of resources at my disposal. There's no use reporting me because they won't be able to locate me. Formatting the drive or destroying your device won't help because I already possess your data.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "I suggest you steer clear of joking with me because I've got a wide range of resources at my disposal.",
+                "start_offset": 0,
+                "end_offset": 102
+            }
+        ],
+        "chunk_start_idx": 1983,
+        "chunk_end_idx": 2249
+    },
+    {
+        "id": "email57",
+        "external_id": "email57.sentence_1-3",
+        "sentence_text": "Dear User,This message is to inform you that your access to bCourses will soon expire. You will have to login to your account to continue to have access to this service.You need to reactivate it just by logging in through the following URL. A successful login will activate your account and you will be redirected to your bCourses page.http:/bcourses.berkeley.edu/login_0DZvfIrGID322o0ki22F0IZotK3lPfYHa62pNgFo4Oh4B40FO4WFMbL4BeL22BMCB8yNmkrd1qJSMjMmbphO9TsF3jX2LqgZijDXGuwEM8fb8yNE7xdTJSMBNYpD4cemhm/If you are not able to login, please contact Danielle Patel at dapatel@berkeley.edu(link sends e-mail) for immediate assistance.Sincerely,Danielle PatelBerkeley SecurityUniversity of California, Berkeley510-643-6957dapatel@berkeley.edu",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "your access to bCourses will soon expire",
+                "start_offset": 45,
+                "end_offset": 85
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 736
+    },
+    {
+        "id": "email58",
+        "external_id": "email58.sentence_1-3",
+        "sentence_text": "Security Notice! Dear XXXX,Our security system has detected some irregular activity connected to your account. you will be unable to send and recieve emails until this issue has been resolvedCLICK HERE TO VALIDATE NOWTo prevent further irregular activity we will restrict access to your account within 72 hours if you did not validate your account.*Note:* Mail Administrator will always keep you posted of securityupdates. Mail Adminberkeley.edu(link is external) 2021 Secured Service.",
+        "annotations": [
+            {
+                "label": "threat",
+                "text": "we will restrict access to your account within 72 hours if you did not validate your account.",
+                "start_offset": 255,
+                "end_offset": 348
+            },
+            {
+                "label": "threat",
+                "text": "you will be unable to send and recieve emails until this issue has been resolved",
+                "start_offset": 111,
+                "end_offset": 191
+            }
+        ],
+        "chunk_start_idx": 0,
+        "chunk_end_idx": 485
+    }
+]
