@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "phishingdetect-v12023",
+  "private_key_id": "43b4984126cba6a4495c1350d76fef985399b7da",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC6TmIv8xIlaKpw\nhKImvntLjz59fLs7ueMAnqatCIRgiIOB6kh89+8HA/n410AelQuOOiTfv9+2XbCJ\nwKApJ8FvT4++f5S9OR+mH4WQe8AudSr8GImHgHzupHF4VkEUfx+pxgjwrIVIysLq\n6GHTlC1H3FshJmZJA+OV+Y3DL6xi80nCejiRL1vOgqEP9gmEbzqmq6L+CsioIlNF\noj/WpLEowHTDX+0jcFHYwc6TVTw+/hIIiBSDSg0RzMF6t/tUR9GyGikcf/n+a2MR\nUNuk/3gNHCRgDCY/Daf2t4nOInMwpkFTQAGs9cbLAi52/QPHjB4O8EkjGRHSJt+X\n8T/IoOvJAgMBAAECggEAIzAOx3OnZ71fA6VpYtvzOZAyg0z9qAgx4boVTPUg24Kt\nI+p2CnRhhvevTNqK17va1OASetgojq8fWsUw+tTxae6i/Z3nH94cJiop9eIJqDyl\nA7w2rYsNDZ2teMcBv7dK6avnoF1VRyxUqD1/zJBeBQaPh7FS/FNptrfNmKH2czGh\nQQIFC/8hetprcIh9FnCULTDgXVegOfLBGLMbJ1tbwCtQ3cDMEw3y05AiVKZlxusj\niVe/A/U8dUnSqKtAD1m015R5hTNvu3D3lliE3b8Q3F3HWSPH0NXpETKoSQsSqskk\nQ40MiGYHZVwiDwj4/8lfPWs5V53gRf0+BIFtNcL9oQKBgQDxeg8mDkKaYW2Ro2kB\neHQK2M0tbrEZ7eRfipl1aMMDb0zkU82+r/qxzkCJRVAphA0f7EOHILLB+LFtJ40x\na0QnlVqiMtD0TgMTouGAgcB5uLG0gcEpY5zgNBF8PIzOSWupRPhL9uD2X/V/csHa\nFq8scD7liggpJogFCA6DlyM/jQKBgQDFguFUfHfp9n6dSCb+uIQhFV10euAfni1X\n91aj6PgoVhLgNE3E+gPgnrD3HHN2zZ5f1qBKIkPlP/ED8exF5/wsds+i1wzbcEd8\n0lN+P/7I0R03gxAGURWod2nrvUckTm9vYYSjBrqaqHFqk6i8D7POnB5odiE/81rv\nNS/CnxnALQKBgQC8TBHD+xq0h4SJLIOVQfg6/RQBeW9gaMDMP6eqhiaLZx7ubOri\n5xb1z39Di2kW9oHFgtalaDn8R5ETLORMxPhAZZZnJHkMCEkd5sUxD/ym7f6kYwnc\n3HBX5EI+PnkN4vKw67cyhTCm7ezhlPrUtRuj62MgWqJCdGlcgwvOUOyLgQKBgQCu\nPHU3KM5IEPFFIp9z2aaF4Okelj8c5Vcu4L0Hv78bJkNkkf+BIuVEw/ltJSYeyelK\ntnWUsIGgvTWKu2IpkSr+tpkZGAj5lCUcUhbhqubClObnT7FVQTaP9Tf1hHY76w2W\n/joZ7xey06Gp2TTjIh8GxuZ0VLGkTrQLjaniUKRQyQKBgQDfzYXmQjPXStZI5bJ4\nh8WCGIc7MlEAlabfJ5MblbwYIcvKCrQJx1Z/lYG6iH0GJsk8UFOEWZKdRzy6l77W\n7n3FRBYnKs4apaLIFbSRBjHAGXYXArxN/McLThTpHBWhOUI/sMPiP3/zlnCvkQyc\nD8Twnkd8r+uIXtCZy10TvxhouQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "phish-771@phishingdetect-v12023.iam.gserviceaccount.com",
+  "client_id": "102680928400117378414",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/phish-771%40phishingdetect-v12023.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
